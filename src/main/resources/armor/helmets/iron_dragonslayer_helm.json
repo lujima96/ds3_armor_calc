@@ -1,0 +1,19 @@
+{
+    "name": "Iron Dragonslayer Helm",
+    "physical": 6.1,
+    "vs_strike": 4.5,
+    "vs_slash": 6.4,
+    "vs_thrust": 6.6,
+    "magic": 3.9,
+    "fire": 4.5,
+    "lightning": 5.3,
+    "dark": 5.1,
+    "bleed": 33,
+    "poison": 22,
+    "frost": 24,
+    "curse": 11,
+    "poise": 7.0,
+    "weight": 6.3,
+    "durability": 450
+  }
+  

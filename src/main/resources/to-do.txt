@@ -1,0 +1,9 @@
+
+Confirm buttons must update equip load panel. Confirm buttons can also
+manage control flow in some way(maybe panel 2 only shows after 1 is complete).
+
+Equip load panel must update with each confirmation. Generate Armor set button.
+
+We need a boss selection panel. This doesnt have to be a checkbox.
+
+Then we need to build armor calculation logic. Brute force may be an option.

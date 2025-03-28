@@ -1,0 +1,19 @@
+{
+    "name": "Mirrah Chain Leggings",
+    "physical": 6.5,
+    "vs_strike": 4.7,
+    "vs_slash": 7.7,
+    "vs_thrust": 5.1,
+    "magic": 5.5,
+    "fire": 5.5,
+    "lightning": 2.9,
+    "dark": 4.2,
+    "bleed": 32,
+    "poison": 23,
+    "frost": 25,
+    "curse": 18,
+    "poise": 5.8,
+    "weight": 5.9,
+    "durability": 360
+  }
+  

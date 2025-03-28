@@ -1,0 +1,19 @@
+{
+    "name": "Harald Legion Gauntlets",
+    "physical": 1.9,
+    "vs_strike": 2.2,
+    "vs_slash": 2.1,
+    "vs_thrust": 2.1,
+    "magic": 1.7,
+    "fire": 1.7,
+    "lightning": 2.1,
+    "dark": 2.4,
+    "bleed": 10,
+    "poison": 19,
+    "frost": 15,
+    "curse": 19,
+    "poise": 0.5,
+    "weight": 1.9,
+    "durability": 260
+  }
+  

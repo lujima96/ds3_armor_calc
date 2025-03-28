@@ -1,0 +1,19 @@
+{
+    "name": "Conjurator Hood",
+    "physical": 1.5,
+    "vs_strike": 1.5,
+    "vs_slash": 1.5,
+    "vs_thrust": 1.3,
+    "magic": 4.4,
+    "fire": 5.1,
+    "lightning": 5.0,
+    "dark": 4.6,
+    "bleed": 13,
+    "poison": 27,
+    "frost": 19,
+    "curse": 26,
+    "poise": 0.6,
+    "weight": 1.8,
+    "durability": 230
+  }
+  

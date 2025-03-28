@@ -1,0 +1,19 @@
+{
+    "name": "Herald Armor",
+    "physical": 12.4,
+    "vs_strike": 8.0,
+    "vs_slash": 12.9,
+    "vs_thrust": 11.9,
+    "magic": 9.2,
+    "fire": 8.4,
+    "lightning": 3.8,
+    "dark": 8.4,
+    "bleed": 52,
+    "poison": 30,
+    "frost": 36,
+    "curse": 19,
+    "poise": 9.5,
+    "weight": 8.6,
+    "durability": 350
+  }
+  

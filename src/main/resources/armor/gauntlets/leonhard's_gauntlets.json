@@ -1,0 +1,19 @@
+{
+    "name": "Leonhard's Gauntlets",
+    "physical": 2.6,
+    "vs_strike": 3.0,
+    "vs_slash": 2.8,
+    "vs_thrust": 2.6,
+    "magic": 3.4,
+    "fire": 3.4,
+    "lightning": 2.8,
+    "dark": 2.4,
+    "bleed": 12,
+    "poison": 18,
+    "frost": 18,
+    "curse": 18,
+    "poise": 1.9,
+    "weight": 2.8,
+    "durability": 280
+  }
+  

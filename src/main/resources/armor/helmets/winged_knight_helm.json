@@ -1,0 +1,19 @@
+{
+    "name": "Winged Knight Helm",
+    "physical": 6.7,
+    "vs_strike": 5.4,
+    "vs_slash": 6.7,
+    "vs_thrust": 6.3,
+    "magic": 4.3,
+    "fire": 5.0,
+    "lightning": 4.7,
+    "dark": 5.7,
+    "bleed": 31,
+    "poison": 29,
+    "frost": 29,
+    "curse": 18,
+    "poise": 6.9,
+    "weight": 7.0,
+    "durability": 470
+  }
+  

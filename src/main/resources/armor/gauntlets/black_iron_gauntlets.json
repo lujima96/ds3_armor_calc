@@ -1,0 +1,19 @@
+{
+    "name": "Black Iron Gauntlets",
+    "physical": 4.6,
+    "vs_strike": 2.9,
+    "vs_slash": 4.6,
+    "vs_thrust": 4.4,
+    "magic": 2.8,
+    "fire": 3.8,
+    "lightning": 2.8,
+    "dark": 3.1,
+    "bleed": 24,
+    "poison": 16,
+    "frost": 20,
+    "curse": 14,
+    "poise": 4.4,
+    "weight": 5.1,
+    "durability": 450
+  }
+  

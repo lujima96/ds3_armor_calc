@@ -1,0 +1,19 @@
+{
+    "name": "Sunset Gauntlets",
+    "physical": 4.1,
+    "vs_strike": 3.5,
+    "vs_slash": 4.1,
+    "vs_thrust": 3.9,
+    "magic": 2.6,
+    "fire": 3.1,
+    "lightning": 2.4,
+    "dark": 3.0,
+    "bleed": 24,
+    "poison": 22,
+    "frost": 16,
+    "curse": 17,
+    "poise": 4.0,
+    "weight": 4.4,
+    "durability": 400
+  }
+  

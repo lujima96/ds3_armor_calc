@@ -1,0 +1,19 @@
+{
+    "name": "Exile Leggings",
+    "physical": 10.8,
+    "vs_strike": 10.4,
+    "vs_slash": 9.8,
+    "vs_thrust": 9.3,
+    "magic": 7.4,
+    "fire": 8.5,
+    "lightning": 7.5,
+    "dark": 7.8,
+    "bleed": 57,
+    "poison": 43,
+    "frost": 35,
+    "curse": 28,
+    "poise": 14.8,
+    "weight": 10.4,
+    "durability": 470
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Northern Gloves",
+    "physical": 2.2,
+    "vs_strike": 2.9,
+    "vs_slash": 2.2,
+    "vs_thrust": 2.2,
+    "magic": 0.8,
+    "fire": 2.5,
+    "lightning": 2.0,
+    "dark": 0.8,
+    "bleed": 15,
+    "poison": 19,
+    "frost": 24,
+    "curse": 19,
+    "poise": 0.7,
+    "weight": 2.3,
+    "durability": 270
+  }
+  

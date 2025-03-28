@@ -1,0 +1,19 @@
+{
+    "name": "Wolf Knight Gauntlets",
+    "physical": 3.2,
+    "vs_strike": 2.8,
+    "vs_slash": 3.2,
+    "vs_thrust": 3.2,
+    "magic": 2.0,
+    "fire": 3.1,
+    "lightning": 1.4,
+    "dark": 2.7,
+    "bleed": 18,
+    "poison": 13,
+    "frost": 14,
+    "curse": 14,
+    "poise": 1.6,
+    "weight": 3.1,
+    "durability": 360
+  }
+  

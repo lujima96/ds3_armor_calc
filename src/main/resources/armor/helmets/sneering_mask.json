@@ -1,0 +1,18 @@
+{
+  "name": "Sneering Mask",
+  "physical": 1.4,
+  "vs_strike": 1.7,
+  "vs_slash": 1.4,
+  "vs_thrust": 1.1,
+  "magic": 3.6,
+  "fire": 4.1,
+  "lightning": 2.4,
+  "dark": 1.6,
+  "bleed": 35,
+  "poison": 28,
+  "frost": 22,
+  "curse": 20,
+  "poise": 0.5,
+  "durability": 250,
+  "weight": 2.1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Alva Leggings",
+    "physical": 7.1,
+    "vs_strike": 5.8,
+    "vs_slash": 7.1,
+    "vs_thrust": 6.5,
+    "magic": 5.4,
+    "fire": 6.5,
+    "lightning": 5.4,
+    "dark": 6.2,
+    "bleed": 36,
+    "poison": 21,
+    "frost": 22,
+    "curse": 12,
+    "poise": 6.7,
+    "weight": 5.5,
+    "durability": 360
+  }
+  

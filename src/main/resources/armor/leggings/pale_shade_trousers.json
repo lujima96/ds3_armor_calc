@@ -1,0 +1,19 @@
+{
+    "name": "Pale Shade Trousers",
+    "physical": 1.8,
+    "vs_strike": 1.8,
+    "vs_slash": 1.8,
+    "vs_thrust": 1.2,
+    "magic": 7.0,
+    "fire": 6.7,
+    "lightning": 6.1,
+    "dark": 6.4,
+    "bleed": 20,
+    "poison": 35,
+    "frost": 18,
+    "curse": 44,
+    "poise": 1.0,
+    "weight": 2.2,
+    "durability": 220
+  }
+  

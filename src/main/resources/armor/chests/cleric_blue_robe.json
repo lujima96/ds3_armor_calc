@@ -1,0 +1,19 @@
+{
+    "name": "Cleric Blue Robe",
+    "physical": 4.9,
+    "vs_strike": 7.3,
+    "vs_slash": 6.0,
+    "vs_thrust": 4.2,
+    "magic": 12.8,
+    "fire": 12.3,
+    "lightning": 13.2,
+    "dark": 13.2,
+    "bleed": 45,
+    "poison": 61,
+    "frost": 49,
+    "curse": 68,
+    "poise": 1.4,
+    "weight": 6.0,
+    "durability": 260
+  }
+  

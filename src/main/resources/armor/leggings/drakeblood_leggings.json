@@ -1,0 +1,19 @@
+{
+    "name": "Drakeblood Leggings",
+    "physical": 7.9,
+    "vs_strike": 7.8,
+    "vs_slash": 9.5,
+    "vs_thrust": 7.5,
+    "magic": 7.2,
+    "fire": 6.9,
+    "lightning": 6.3,
+    "dark": 6.3,
+    "bleed": 45,
+    "poison": 23,
+    "frost": 25,
+    "curse": 17,
+    "poise": 9.8,
+    "weight": 8.3,
+    "durability": 410
+  }
+  

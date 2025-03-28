@@ -1,0 +1,19 @@
+{
+    "name": "Nameless Knight Armor",
+    "physical": 11.7,
+    "vs_strike": 10.0,
+    "vs_slash": 12.7,
+    "vs_thrust": 11.1,
+    "magic": 7.6,
+    "fire": 11.0,
+    "lightning": 8.4,
+    "dark": 7.6,
+    "bleed": 61,
+    "poison": 38,
+    "frost": 35,
+    "curse": 21,
+    "poise": 8.7,
+    "weight": 9.3,
+    "durability": 360
+  }
+  

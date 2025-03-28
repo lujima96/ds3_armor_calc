@@ -1,0 +1,19 @@
+{
+    "name": "Sorcerer Robe",
+    "physical": 4.5,
+    "vs_strike": 4.5,
+    "vs_slash": 4.5,
+    "vs_thrust": 3.8,
+    "magic": 13.1,
+    "fire": 12.4,
+    "lightning": 12.6,
+    "dark": 13.1,
+    "bleed": 25,
+    "poison": 40,
+    "frost": 33,
+    "curse": 71,
+    "poise": 1.7,
+    "weight": 4.1,
+    "durability": 230
+  }
+  

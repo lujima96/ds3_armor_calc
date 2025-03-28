@@ -1,0 +1,19 @@
+{
+    "name": "Painting Guardian Waistcloth",
+    "physical": 3.5,
+    "vs_strike": 2.9,
+    "vs_slash": 3.5,
+    "vs_thrust": 4.8,
+    "magic": 6.5,
+    "fire": 5.3,
+    "lightning": 2.9,
+    "dark": 2.9,
+    "bleed": 42,
+    "poison": 31,
+    "frost": 17,
+    "curse": 22,
+    "poise": 4.2,
+    "weight": 4.4,
+    "durability": 270
+  }
+  

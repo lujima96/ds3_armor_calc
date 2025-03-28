@@ -1,0 +1,19 @@
+{
+    "name": "Silver Mask",
+    "physical": 3.3,
+    "vs_strike": 3.9,
+    "vs_slash": 3.3,
+    "vs_thrust": 3.3,
+    "magic": 3.5,
+    "fire": 4.2,
+    "lightning": 3.3,
+    "dark": 2.8,
+    "bleed": 19,
+    "poison": 27,
+    "frost": 28,
+    "curse": 27,
+    "poise": 1.9,
+    "weight": 3.3,
+    "durability": 280
+  }
+  

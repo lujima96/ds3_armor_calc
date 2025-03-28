@@ -1,0 +1,19 @@
+{
+    "name": "Catarina Helm",
+    "physical": 6.8,
+    "vs_strike": 5.0,
+    "vs_slash": 6.8,
+    "vs_thrust": 6.3,
+    "magic": 4.5,
+    "fire": 4.9,
+    "lightning": 5.7,
+    "dark": 5.1,
+    "bleed": 34,
+    "poison": 27,
+    "frost": 27,
+    "curse": 17,
+    "poise": 8.6,
+    "weight": 7.3,
+    "durability": 460
+  }
+  

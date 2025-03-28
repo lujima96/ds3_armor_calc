@@ -1,0 +1,19 @@
+{
+    "name": "Faraam Leggings",
+    "physical": 7.2,
+    "vs_strike": 7.5,
+    "vs_slash": 7.2,
+    "vs_thrust": 6.6,
+    "magic": 5.6,
+    "fire": 6.4,
+    "lightning": 5.6,
+    "dark": 5.6,
+    "bleed": 34,
+    "poison": 24,
+    "frost": 37,
+    "curse": 15,
+    "poise": 8.2,
+    "weight": 6.7,
+    "durability": 370
+  }
+  

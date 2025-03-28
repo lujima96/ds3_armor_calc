@@ -1,0 +1,19 @@
+{
+    "name": "Dancer's Armor",
+    "physical": 10.5,
+    "vs_strike": 7.4,
+    "vs_slash": 12.2,
+    "vs_thrust": 11.7,
+    "magic": 8.3,
+    "fire": 6.0,
+    "lightning": 9.1,
+    "dark": 9.8,
+    "bleed": 41,
+    "poison": 33,
+    "frost": 55,
+    "curse": 22,
+    "poise": 6.7,
+    "weight": 7.3,
+    "durability": 280
+  }
+  

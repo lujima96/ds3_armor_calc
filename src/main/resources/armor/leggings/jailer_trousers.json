@@ -1,0 +1,19 @@
+{
+    "name": "Jailer Trousers",
+    "physical": 4.2,
+    "vs_strike": 1.9,
+    "vs_slash": 4.2,
+    "vs_thrust": 3.0,
+    "magic": 6.9,
+    "fire": 6.7,
+    "lightning": 5.7,
+    "dark": 6.9,
+    "bleed": 12,
+    "poison": 22,
+    "frost": 19,
+    "curse": 53,
+    "poise": 1.0,
+    "weight": 2.8,
+    "durability": 230
+  }
+  

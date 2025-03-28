@@ -1,0 +1,19 @@
+{
+    "name": "Harald Legion Leggings",
+    "physical": 11.0,
+    "vs_strike": 10.0,
+    "vs_slash": 11.1,
+    "vs_thrust": 11.0,
+    "magic": 7.6,
+    "fire": 7.7,
+    "lightning": 7.3,
+    "dark": 8.1,
+    "bleed": 40,
+    "poison": 37,
+    "frost": 36,
+    "curse": 35,
+    "poise": 12.9,
+    "weight": 10.8,
+    "durability": 470
+  }
+  

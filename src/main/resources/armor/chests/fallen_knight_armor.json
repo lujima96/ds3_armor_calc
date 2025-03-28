@@ -1,0 +1,19 @@
+{
+    "name": "Fallen Knight Armor",
+    "physical": 12.7,
+    "vs_strike": 12.2,
+    "vs_slash": 10.0,
+    "vs_thrust": 11.1,
+    "magic": 8.3,
+    "fire": 12.5,
+    "lightning": 10.4,
+    "dark": 9.0,
+    "bleed": 43,
+    "poison": 28,
+    "frost": 39,
+    "curse": 22,
+    "poise": 8.7,
+    "weight": 9.2,
+    "durability": 360
+  }
+  

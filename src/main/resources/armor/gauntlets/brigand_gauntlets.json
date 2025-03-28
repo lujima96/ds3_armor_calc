@@ -1,0 +1,19 @@
+{
+    "name": "Brigand Gauntlets",
+    "physical": 2.5,
+    "vs_strike": 2.3,
+    "vs_slash": 2.5,
+    "vs_thrust": 2.5,
+    "magic": 1.9,
+    "fire": 2.1,
+    "lightning": 2.3,
+    "dark": 1.9,
+    "bleed": 14,
+    "poison": 20,
+    "frost": 19,
+    "curse": 14,
+    "poise": 1.0,
+    "weight": 2.4,
+    "durability": 280
+  }
+  

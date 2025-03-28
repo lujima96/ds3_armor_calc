@@ -1,0 +1,19 @@
+{
+    "name": "Thief Mask",
+    "physical": 2.2,
+    "vs_strike": 2.5,
+    "vs_slash": 2.2,
+    "vs_thrust": 2.2,
+    "magic": 2.2,
+    "fire": 2.5,
+    "lightning": 2.8,
+    "dark": 2.2,
+    "bleed": 23,
+    "poison": 26,
+    "frost": 21,
+    "curse": 17,
+    "poise": 0.6,
+    "weight": 2.1,
+    "durability": 250
+  }
+  

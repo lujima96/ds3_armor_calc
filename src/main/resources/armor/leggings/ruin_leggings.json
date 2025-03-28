@@ -1,0 +1,19 @@
+{
+    "name": "Ruin Leggings",
+    "physical": 7.4,
+    "vs_strike": 7.1,
+    "vs_slash": 8.9,
+    "vs_thrust": 7.4,
+    "magic": 6.9,
+    "fire": 6.2,
+    "lightning": 6.5,
+    "dark": 5.5,
+    "bleed": 37,
+    "poison": 35,
+    "frost": 20,
+    "curse": 18,
+    "poise": 10.7,
+    "weight": 8.0,
+    "durability": 400
+  }
+  

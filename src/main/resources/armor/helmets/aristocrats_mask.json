@@ -1,0 +1,19 @@
+{
+    "name": "Aristocrat's Mask",
+    "physical": 6.0,
+    "vs_strike": 2.7,
+    "vs_slash": 5.8,
+    "vs_thrust": 5.5,
+    "magic": 4.1,
+    "fire": 4.3,
+    "lightning": 2.5,
+    "dark": 3.9,
+    "bleed": 25,
+    "poison": 17,
+    "frost": 17,
+    "curse": 28,
+    "poise": 6.8,
+    "weight": 5.7,
+    "durability": 400
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Hard Leather Armor",
+    "physical": 10.3,
+    "vs_strike": 10.8,
+    "vs_slash": 10.3,
+    "vs_thrust": 10.3,
+    "magic": 8.7,
+    "fire": 9.4,
+    "lightning": 7.0,
+    "dark": 8.7,
+    "bleed": 47,
+    "poison": 64,
+    "frost": 59,
+    "curse": 52,
+    "poise": 6.8,
+    "weight": 8.3,
+    "durability": 280
+  }
+  

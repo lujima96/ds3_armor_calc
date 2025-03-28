@@ -1,0 +1,19 @@
+{
+    "name": "Elite Knight Leggings",
+    "physical": 8.3,
+    "vs_strike": 6.8,
+    "vs_slash": 8.3,
+    "vs_thrust": 7.4,
+    "magic": 6.8,
+    "fire": 7.4,
+    "lightning": 5.7,
+    "dark": 6.5,
+    "bleed": 38,
+    "poison": 25,
+    "frost": 26,
+    "curse": 16,
+    "poise": 7.0,
+    "weight": 6.8,
+    "durability": 370
+  }
+  

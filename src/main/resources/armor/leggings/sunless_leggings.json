@@ -1,0 +1,19 @@
+{
+    "name": "Sunless Leggings",
+    "physical": 6.2,
+    "vs_strike": 4.7,
+    "vs_slash": 6.5,
+    "vs_thrust": 6.2,
+    "magic": 5.9,
+    "fire": 5.1,
+    "lightning": 2.9,
+    "dark": 6.2,
+    "bleed": 27,
+    "poison": 18,
+    "frost": 21,
+    "curse": 18,
+    "poise": 4.7,
+    "weight": 5.7,
+    "durability": 360
+  }
+  

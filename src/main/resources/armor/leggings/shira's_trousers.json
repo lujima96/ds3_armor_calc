@@ -1,0 +1,19 @@
+{
+    "name": "Shira's Trousers",
+    "physical": 4.2,
+    "vs_strike": 5.2,
+    "vs_slash": 4.2,
+    "vs_thrust": 5.6,
+    "magic": 6.4,
+    "fire": 6.7,
+    "lightning": 6.4,
+    "dark": 4.7,
+    "bleed": 21,
+    "poison": 36,
+    "frost": 35,
+    "curse": 36,
+    "poise": 1.5,
+    "weight": 3.8,
+    "durability": 260
+  }
+  

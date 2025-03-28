@@ -1,0 +1,19 @@
+{
+    "name": "White Preacher Head",
+    "physical": 2.6,
+    "vs_strike": 4.2,
+    "vs_slash": 4.0,
+    "vs_thrust": 4.0,
+    "magic": 4.6,
+    "fire": 3.8,
+    "lightning": 4.0,
+    "dark": 2.9,
+    "bleed": 17,
+    "poison": 28,
+    "frost": 24,
+    "curse": 29,
+    "poise": 2.6,
+    "weight": 3.5,
+    "durability": 280
+  }
+  

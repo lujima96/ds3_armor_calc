@@ -1,0 +1,19 @@
+{
+    "name": "Grave Warden Robe",
+    "physical": 4.1,
+    "vs_strike": 3.1,
+    "vs_slash": 8.1,
+    "vs_thrust": 4.8,
+    "magic": 9.0,
+    "fire": 9.0,
+    "lightning": 11.1,
+    "dark": 3.6,
+    "bleed": 63,
+    "poison": 59,
+    "frost": 13,
+    "curse": 51,
+    "poise": 1.0,
+    "weight": 3.6,
+    "durability": 220
+  }
+  

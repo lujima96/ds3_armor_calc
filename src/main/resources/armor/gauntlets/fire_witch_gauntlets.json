@@ -1,0 +1,19 @@
+{
+    "name": "Fire Witch Gauntlets",
+    "physical": 2.8,
+    "vs_strike": 1.4,
+    "vs_slash": 2.4,
+    "vs_thrust": 2.2,
+    "magic": 2.4,
+    "fire": 2.6,
+    "lightning": 1.4,
+    "dark": 2.2,
+    "bleed": 15,
+    "poison": 10,
+    "frost": 12,
+    "curse": 9,
+    "poise": 1.5,
+    "weight": 2.6,
+    "durability": 350
+  }
+  

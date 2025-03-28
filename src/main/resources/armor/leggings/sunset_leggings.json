@@ -1,0 +1,19 @@
+{
+    "name": "Sunset Leggings",
+    "physical": 7.2,
+    "vs_strike": 5.9,
+    "vs_slash": 7.8,
+    "vs_thrust": 7.2,
+    "magic": 4.6,
+    "fire": 5.5,
+    "lightning": 3.3,
+    "dark": 5.1,
+    "bleed": 40,
+    "poison": 35,
+    "frost": 26,
+    "curse": 26,
+    "poise": 5.8,
+    "weight": 7.0,
+    "durability": 370
+  }
+  

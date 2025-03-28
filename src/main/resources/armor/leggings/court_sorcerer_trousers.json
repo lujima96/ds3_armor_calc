@@ -1,0 +1,19 @@
+{
+    "name": "Court Sorcerer Trousers",
+    "physical": 2.2,
+    "vs_strike": 2.5,
+    "vs_slash": 2.2,
+    "vs_thrust": 2.5,
+    "magic": 7.4,
+    "fire": 6.8,
+    "lightning": 8.0,
+    "dark": 7.9,
+    "bleed": 19,
+    "poison": 29,
+    "frost": 21,
+    "curse": 47,
+    "poise": 1.1,
+    "weight": 2.2,
+    "durability": 220
+  }
+  

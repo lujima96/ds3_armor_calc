@@ -1,0 +1,19 @@
+{
+    "name": "Firelink Helm",
+    "physical": 4.8,
+    "vs_strike": 2.5,
+    "vs_slash": 4.8,
+    "vs_thrust": 4.4,
+    "magic": 2.6,
+    "fire": 4.4,
+    "lightning": 1.8,
+    "dark": 1.4,
+    "bleed": 20,
+    "poison": 12,
+    "frost": 16,
+    "curse": 8,
+    "poise": 4.2,
+    "weight": 4.1,
+    "durability": 350
+  }
+  

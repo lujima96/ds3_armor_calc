@@ -1,0 +1,19 @@
+{
+    "name": "Sorcerer Hood",
+    "physical": 1.0,
+    "vs_strike": 1.0,
+    "vs_slash": 1.0,
+    "vs_thrust": 0.9,
+    "magic": 4.4,
+    "fire": 4.0,
+    "lightning": 4.2,
+    "dark": 4.5,
+    "bleed": 11,
+    "poison": 18,
+    "frost": 14,
+    "curse": 30,
+    "poise": 0.1,
+    "weight": 1.4,
+    "durability": 210
+  }
+  

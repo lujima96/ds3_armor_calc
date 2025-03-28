@@ -1,0 +1,19 @@
+{
+    "name": "Helm of Favor",
+    "physical": 4.5,
+    "vs_strike": 4.1,
+    "vs_slash": 4.5,
+    "vs_thrust": 4.7,
+    "magic": 3.7,
+    "fire": 3.9,
+    "lightning": 2.8,
+    "dark": 3.9,
+    "bleed": 30,
+    "poison": 23,
+    "frost": 25,
+    "curse": 18,
+    "poise": 6.0,
+    "weight": 5.7,
+    "durability": 400
+  }
+  

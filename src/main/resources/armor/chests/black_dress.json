@@ -1,0 +1,19 @@
+{
+    "name": "Black Dress",
+    "physical": 7.7,
+    "vs_strike": 7.7,
+    "vs_slash": 10.0,
+    "vs_thrust": 6.8,
+    "magic": 9.7,
+    "fire": 12.5,
+    "lightning": 10.9,
+    "dark": 12.1,
+    "bleed": 40,
+    "poison": 60,
+    "frost": 47,
+    "curse": 71,
+    "poise": 5.6,
+    "weight": 6.5,
+    "durability": 270
+  }
+  

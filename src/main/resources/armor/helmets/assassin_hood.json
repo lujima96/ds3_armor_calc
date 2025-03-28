@@ -1,0 +1,19 @@
+{
+    "name": "Assassin Hood",
+    "physical": 1.9,
+    "vs_strike": 2.7,
+    "vs_slash": 1.9,
+    "vs_thrust": 2.2,
+    "magic": 3.3,
+    "fire": 4.3,
+    "lightning": 3.3,
+    "dark": 2.5,
+    "bleed": 17,
+    "poison": 27,
+    "frost": 20,
+    "curse": 20,
+    "poise": 1.0,
+    "weight": 1.8,
+    "durability": 220
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Black Witch Garb",
+    "physical": 3.7,
+    "vs_strike": 4.2,
+    "vs_slash": 4.2,
+    "vs_thrust": 2.7,
+    "magic": 13.8,
+    "fire": 13.5,
+    "lightning": 13.5,
+    "dark": 14.1,
+    "bleed": 15,
+    "poison": 39,
+    "frost": 28,
+    "curse": 69,
+    "poise": 0.5,
+    "weight": 3.6,
+    "durability": 220
+  }
+  

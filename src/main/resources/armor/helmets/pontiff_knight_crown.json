@@ -1,0 +1,19 @@
+{
+    "name": "Pontiff Knight Crown",
+    "physical": 2.8,
+    "vs_strike": 1.4,
+    "vs_slash": 2.8,
+    "vs_thrust": 2.5,
+    "magic": 4.7,
+    "fire": 3.3,
+    "lightning": 4.3,
+    "dark": 5.0,
+    "bleed": 15,
+    "poison": 12,
+    "frost": 31,
+    "curse": 10,
+    "poise": 2.0,
+    "weight": 2.7,
+    "durability": 270
+  }
+  

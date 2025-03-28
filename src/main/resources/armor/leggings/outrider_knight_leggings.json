@@ -1,0 +1,19 @@
+{
+    "name": "Outrider Knight Leggings",
+    "physical": 7.9,
+    "vs_strike": 6.0,
+    "vs_slash": 7.6,
+    "vs_thrust": 7.9,
+    "magic": 5.9,
+    "fire": 6.7,
+    "lightning": 5.5,
+    "dark": 3.7,
+    "bleed": 32,
+    "poison": 24,
+    "frost": 55,
+    "curse": 14,
+    "poise": 7.2,
+    "weight": 6.8,
+    "durability": 370
+  }
+  

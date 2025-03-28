@@ -1,0 +1,19 @@
+{
+    "name": "Ruin Armor",
+    "physical": 13.7,
+    "vs_strike": 13.1,
+    "vs_slash": 16.3,
+    "vs_thrust": 13.7,
+    "magic": 12.8,
+    "fire": 11.6,
+    "lightning": 12.2,
+    "dark": 10.5,
+    "bleed": 62,
+    "poison": 60,
+    "frost": 35,
+    "curse": 32,
+    "poise": 17.4,
+    "weight": 12.9,
+    "durability": 400
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Executioner Leggings",
+    "physical": 10.6,
+    "vs_strike": 7.1,
+    "vs_slash": 10.1,
+    "vs_thrust": 10.6,
+    "magic": 7.9,
+    "fire": 8.1,
+    "lightning": 6.5,
+    "dark": 7.6,
+    "bleed": 39,
+    "poison": 35,
+    "frost": 37,
+    "curse": 25,
+    "poise": 13.2,
+    "weight": 9.9,
+    "durability": 460
+  }
+  

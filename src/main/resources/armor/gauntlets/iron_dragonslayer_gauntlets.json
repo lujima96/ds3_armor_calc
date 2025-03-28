@@ -1,0 +1,19 @@
+{
+    "name": "Iron Dragonslayer Gauntlets",
+    "physical": 3.7,
+    "vs_strike": 2.6,
+    "vs_slash": 3.9,
+    "vs_thrust": 4.1,
+    "magic": 2.2,
+    "fire": 2.6,
+    "lightning": 3.2,
+    "dark": 3.0,
+    "bleed": 26,
+    "poison": 17,
+    "frost": 19,
+    "curse": 8,
+    "poise": 4.8,
+    "weight": 5.1,
+    "durability": 450
+  }
+  

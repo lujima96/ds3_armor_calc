@@ -1,0 +1,19 @@
+{
+    "name": "Alva Helm",
+    "physical": 4.4,
+    "vs_strike": 3.6,
+    "vs_slash": 4.4,
+    "vs_thrust": 4.0,
+    "magic": 3.4,
+    "fire": 4.0,
+    "lightning": 3.4,
+    "dark": 3.8,
+    "bleed": 28,
+    "poison": 18,
+    "frost": 19,
+    "curse": 12,
+    "poise": 3.7,
+    "weight": 4.2,
+    "durability": 360
+  }
+  

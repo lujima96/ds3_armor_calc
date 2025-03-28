@@ -1,0 +1,19 @@
+{
+    "name": "Brass Gauntlets",
+    "physical": 3.5,
+    "vs_strike": 2.8,
+    "vs_slash": 3.5,
+    "vs_thrust": 3.1,
+    "magic": 3.6,
+    "fire": 2.7,
+    "lightning": 1.9,
+    "dark": 2.7,
+    "bleed": 19,
+    "poison": 10,
+    "frost": 11,
+    "curse": 8,
+    "poise": 2.4,
+    "weight": 3.4,
+    "durability": 370
+  }
+  

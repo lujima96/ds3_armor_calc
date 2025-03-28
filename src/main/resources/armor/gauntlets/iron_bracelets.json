@@ -1,0 +1,19 @@
+{
+    "name": "Iron Bracelets",
+    "physical": 2.4,
+    "vs_strike": 1.6,
+    "vs_slash": 2.4,
+    "vs_thrust": 2.4,
+    "magic": 2.2,
+    "fire": 2.2,
+    "lightning": 2.0,
+    "dark": 2.2,
+    "bleed": 11,
+    "poison": 9,
+    "frost": 10,
+    "curse": 9,
+    "poise": 2.2,
+    "weight": 2.9,
+    "durability": 350
+  }
+  

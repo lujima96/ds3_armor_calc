@@ -1,0 +1,19 @@
+{
+    "name": "Cornyx's Garb",
+    "physical": 4.1,
+    "vs_strike": 4.1,
+    "vs_slash": 4.8,
+    "vs_thrust": 3.5,
+    "magic": 13.0,
+    "fire": 13.7,
+    "lightning": 12.8,
+    "dark": 13.2,
+    "bleed": 22,
+    "poison": 40,
+    "frost": 30,
+    "curse": 88,
+    "poise": 4.9,
+    "weight": 4.1,
+    "durability": 230
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Desert Pyromancer Skirt",
+    "physical": 3.5,
+    "vs_strike": 1.6,
+    "vs_slash": 1.9,
+    "vs_thrust": 1.9,
+    "magic": 6.2,
+    "fire": 7.3,
+    "lightning": 7.1,
+    "dark": 7.4,
+    "bleed": 13,
+    "poison": 43,
+    "frost": 18,
+    "curse": 44,
+    "poise": 1.2,
+    "weight": 2.4,
+    "durability": 220
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Ruin Gauntlets",
+    "physical": 3.6,
+    "vs_strike": 3.4,
+    "vs_slash": 4.2,
+    "vs_thrust": 3.6,
+    "magic": 3.4,
+    "fire": 3.0,
+    "lightning": 3.2,
+    "dark": 2.7,
+    "bleed": 19,
+    "poison": 19,
+    "frost": 10,
+    "curse": 9,
+    "poise": 4.1,
+    "weight": 4.2,
+    "durability": 400
+  }
+  

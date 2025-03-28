@@ -1,0 +1,19 @@
+{
+    "name": "Sellsword Gauntlet",
+    "physical": 1.4,
+    "vs_strike": 1.4,
+    "vs_slash": 0.8,
+    "vs_thrust": 1.6,
+    "magic": 0.6,
+    "fire": 0.8,
+    "lightning": 0.8,
+    "dark": 0.6,
+    "bleed": 15,
+    "poison": 10,
+    "frost": 11,
+    "curse": 8,
+    "poise": 0.3,
+    "weight": 1.4,
+    "durability": 230
+  }
+  

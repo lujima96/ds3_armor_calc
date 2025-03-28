@@ -1,0 +1,19 @@
+{
+    "name": "Lorian's Leggings",
+    "physical": 8.2,
+    "vs_strike": 5.9,
+    "vs_slash": 8.2,
+    "vs_thrust": 7.5,
+    "magic": 7.4,
+    "fire": 5.2,
+    "lightning": 5.2,
+    "dark": 7.5,
+    "bleed": 38,
+    "poison": 21,
+    "frost": 27,
+    "curse": 25,
+    "poise": 6.3,
+    "weight": 6.9,
+    "durability": 370
+  }
+  

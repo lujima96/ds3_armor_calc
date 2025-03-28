@@ -1,0 +1,19 @@
+{
+    "name": "Dragonslayer Leggings",
+    "physical": 8.1,
+    "vs_strike": 6.5,
+    "vs_slash": 8.9,
+    "vs_thrust": 8.9,
+    "magic": 6.3,
+    "fire": 6.9,
+    "lightning": 6.9,
+    "dark": 4.9,
+    "bleed": 38,
+    "poison": 23,
+    "frost": 24,
+    "curse": 21,
+    "poise": 10.3,
+    "weight": 8.1,
+    "durability": 410
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Fire Witch Leggings",
+    "physical": 7.4,
+    "vs_strike": 3.5,
+    "vs_slash": 5.7,
+    "vs_thrust": 5.7,
+    "magic": 6.5,
+    "fire": 7.1,
+    "lightning": 4.3,
+    "dark": 6.1,
+    "bleed": 24,
+    "poison": 16,
+    "frost": 20,
+    "curse": 13,
+    "poise": 5.3,
+    "weight": 5.5,
+    "durability": 350
+  }
+  

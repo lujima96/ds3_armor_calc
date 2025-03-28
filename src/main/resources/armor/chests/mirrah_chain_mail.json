@@ -1,0 +1,19 @@
+{
+    "name": "Mirrah Chain Mail",
+    "physical": 12.7,
+    "vs_strike": 10.5,
+    "vs_slash": 14.9,
+    "vs_thrust": 10.5,
+    "magic": 11.7,
+    "fire": 11.2,
+    "lightning": 7.4,
+    "dark": 9.1,
+    "bleed": 51,
+    "poison": 33,
+    "frost": 37,
+    "curse": 26,
+    "poise": 11.3,
+    "weight": 10.4,
+    "durability": 370
+  }
+  

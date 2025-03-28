@@ -1,0 +1,19 @@
+{
+    "name": "Cleric Trousers",
+    "physical": 2.4,
+    "vs_strike": 1.6,
+    "vs_slash": 1.6,
+    "vs_thrust": 1.9,
+    "magic": 6.9,
+    "fire": 5.0,
+    "lightning": 6.8,
+    "dark": 7.0,
+    "bleed": 26,
+    "poison": 36,
+    "frost": 18,
+    "curse": 42,
+    "poise": 0.7,
+    "weight": 2.1,
+    "durability": 220
+  }
+  

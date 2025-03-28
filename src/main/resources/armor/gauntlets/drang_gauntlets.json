@@ -1,0 +1,19 @@
+{
+    "name": "Drang Gauntlets",
+    "physical": 2.1,
+    "vs_strike": 1.9,
+    "vs_slash": 1.7,
+    "vs_thrust": 1.1,
+    "magic": 2.0,
+    "fire": 1.4,
+    "lightning": 2.3,
+    "dark": 2.0,
+    "bleed": 13,
+    "poison": 19,
+    "frost": 21,
+    "curse": 14,
+    "poise": 0.3,
+    "weight": 1.7,
+    "durability": 250
+  }
+  

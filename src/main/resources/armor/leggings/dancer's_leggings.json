@@ -1,0 +1,19 @@
+{
+    "name": "Dancer's Leggings",
+    "physical": 6.0,
+    "vs_strike": 4.2,
+    "vs_slash": 7.0,
+    "vs_thrust": 6.7,
+    "magic": 4.7,
+    "fire": 3.4,
+    "lightning": 4.7,
+    "dark": 5.1,
+    "bleed": 22,
+    "poison": 17,
+    "frost": 31,
+    "curse": 10,
+    "poise": 3.6,
+    "weight": 4.4,
+    "durability": 280
+  }
+  

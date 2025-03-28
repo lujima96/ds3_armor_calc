@@ -1,0 +1,19 @@
+{
+    "name": "Loincloth",
+    "physical": 1.9,
+    "vs_strike": 1.9,
+    "vs_slash": 1.9,
+    "vs_thrust": 1.6,
+    "magic": 5.8,
+    "fire": 4.9,
+    "lightning": 5.4,
+    "dark": 5.8,
+    "bleed": 20,
+    "poison": 35,
+    "frost": 10,
+    "curse": 43,
+    "poise": 0.4,
+    "weight": 1.1,
+    "durability": 100
+  }
+  

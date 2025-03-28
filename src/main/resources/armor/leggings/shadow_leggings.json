@@ -1,0 +1,19 @@
+{
+    "name": "Shadow Leggings",
+    "physical": 4.2,
+    "vs_strike": 3.5,
+    "vs_slash": 2.9,
+    "vs_thrust": 4.2,
+    "magic": 3.1,
+    "fire": 3.7,
+    "lightning": 4.5,
+    "dark": 3.1,
+    "bleed": 16,
+    "poison": 24,
+    "frost": 23,
+    "curse": 21,
+    "poise": 2.1,
+    "weight": 2.3,
+    "durability": 230
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Court Sorcerer Robe",
+    "physical": 3.6,
+    "vs_strike": 4.4,
+    "vs_slash": 3.6,
+    "vs_thrust": 4.4,
+    "magic": 12.3,
+    "fire": 11.6,
+    "lightning": 13.5,
+    "dark": 13.2,
+    "bleed": 29,
+    "poison": 46,
+    "frost": 32,
+    "curse": 74,
+    "poise": 1.6,
+    "weight": 4.2,
+    "durability": 230
+  }
+  

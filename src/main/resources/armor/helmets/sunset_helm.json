@@ -1,0 +1,19 @@
+{
+    "name": "Sunset Helm",
+    "physical": 5.3,
+    "vs_strike": 4.5,
+    "vs_slash": 5.3,
+    "vs_thrust": 4.9,
+    "magic": 3.2,
+    "fire": 3.7,
+    "lightning": 2.6,
+    "dark": 3.7,
+    "bleed": 26,
+    "poison": 25,
+    "frost": 14,
+    "curse": 15,
+    "poise": 3.4,
+    "weight": 4.8,
+    "durability": 380
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Black Leather Armor",
+    "physical": 8.7,
+    "vs_strike": 7.8,
+    "vs_slash": 9.4,
+    "vs_thrust": 6.9,
+    "magic": 8.6,
+    "fire": 7.8,
+    "lightning": 10.4,
+    "dark": 8.2,
+    "bleed": 46,
+    "poison": 65,
+    "frost": 55,
+    "curse": 46,
+    "poise": 5.2,
+    "weight": 5.9,
+    "durability": 260
+  }
+  

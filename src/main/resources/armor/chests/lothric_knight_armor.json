@@ -1,0 +1,19 @@
+{
+    "name": "Lothric Knight Armor",
+    "physical": 16.0,
+    "vs_strike": 12.4,
+    "vs_slash": 18.4,
+    "vs_thrust": 15.3,
+    "magic": 12.6,
+    "fire": 13.8,
+    "lightning": 10.2,
+    "dark": 11.9,
+    "bleed": 75,
+    "poison": 43,
+    "frost": 58,
+    "curse": 34,
+    "poise": 20.8,
+    "weight": 15.0,
+    "durability": 430
+  }
+  

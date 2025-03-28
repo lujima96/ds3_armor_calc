@@ -1,0 +1,19 @@
+{
+    "name": "Nameless Knight Gauntlets",
+    "physical": 3.0,
+    "vs_strike": 2.6,
+    "vs_slash": 3.3,
+    "vs_thrust": 2.9,
+    "magic": 2.1,
+    "fire": 3.1,
+    "lightning": 2.3,
+    "dark": 2.1,
+    "bleed": 19,
+    "poison": 10,
+    "frost": 9,
+    "curse": 6,
+    "poise": 2.2,
+    "weight": 2.8,
+    "durability": 350
+  }
+  

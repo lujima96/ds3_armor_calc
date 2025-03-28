@@ -1,0 +1,19 @@
+{
+    "name": "Gundyr's Gauntlets",
+    "physical": 4.4,
+    "vs_strike": 3.6,
+    "vs_slash": 5.1,
+    "vs_thrust": 4.1,
+    "magic": 3.4,
+    "fire": 3.5,
+    "lightning": 3.4,
+    "dark": 3.4,
+    "bleed": 29,
+    "poison": 21,
+    "frost": 21,
+    "curse": 21,
+    "poise": 6.0,
+    "weight": 5.8,
+    "durability": 470
+  }
+  

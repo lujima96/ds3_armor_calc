@@ -1,0 +1,19 @@
+{
+    "name": "Havel's Gauntlets",
+    "physical": 4.7,
+    "vs_strike": 4.3,
+    "vs_slash": 4.6,
+    "vs_thrust": 4.4,
+    "magic": 3.5,
+    "fire": 4.0,
+    "lightning": 3.2,
+    "dark": 3.5,
+    "bleed": 24,
+    "poison": 23,
+    "frost": 23,
+    "curse": 20,
+    "poise": 7.2,
+    "weight": 9.1,
+    "durability": 500
+  }
+  

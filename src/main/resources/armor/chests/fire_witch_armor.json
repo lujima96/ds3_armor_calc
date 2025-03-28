@@ -1,0 +1,19 @@
+{
+    "name": "Fire Witch Armor",
+    "physical": 13.2,
+    "vs_strike": 8.5,
+    "vs_slash": 10.6,
+    "vs_thrust": 10.6,
+    "magic": 12.1,
+    "fire": 12.3,
+    "lightning": 8.5,
+    "dark": 11.1,
+    "bleed": 47,
+    "poison": 34,
+    "frost": 36,
+    "curse": 27,
+    "poise": 9.8,
+    "weight": 10.9,
+    "durability": 370
+  }
+  

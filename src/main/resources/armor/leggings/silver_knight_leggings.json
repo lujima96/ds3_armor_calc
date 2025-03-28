@@ -1,0 +1,19 @@
+{
+    "name": "Silver Knight Leggings",
+    "physical": 7.6,
+    "vs_strike": 7.0,
+    "vs_slash": 7.9,
+    "vs_thrust": 7.8,
+    "magic": 7.3,
+    "fire": 7.0,
+    "lightning": 6.3,
+    "dark": 6.3,
+    "bleed": 36,
+    "poison": 28,
+    "frost": 25,
+    "curse": 20,
+    "poise": 9.8,
+    "weight": 9.1,
+    "durability": 400
+  }
+  

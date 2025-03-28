@@ -1,0 +1,19 @@
+{
+    "name": "Nameless Knight Leggings",
+    "physical": 7.0,
+    "vs_strike": 6.0,
+    "vs_slash": 7.6,
+    "vs_thrust": 6.7,
+    "magic": 4.9,
+    "fire": 6.9,
+    "lightning": 5.4,
+    "dark": 4.9,
+    "bleed": 36,
+    "poison": 22,
+    "frost": 20,
+    "curse": 11,
+    "poise": 5.9,
+    "weight": 5.6,
+    "durability": 360
+  }
+  

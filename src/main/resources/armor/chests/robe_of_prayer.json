@@ -1,0 +1,19 @@
+{
+    "name": "Robe of Prayer",
+    "physical": 3.6,
+    "vs_strike": 3.2,
+    "vs_slash": 3.6,
+    "vs_thrust": 3.2,
+    "magic": 13.5,
+    "fire": 13.1,
+    "lightning": 13.1,
+    "dark": 14.6,
+    "bleed": 13,
+    "poison": 61,
+    "frost": 24,
+    "curse": 89,
+    "poise": 1.3,
+    "weight": 3.4,
+    "durability": 220
+  }
+  

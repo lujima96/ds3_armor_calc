@@ -1,0 +1,19 @@
+{
+    "name": "Smough's Leggings",
+    "physical": 10.9,
+    "vs_strike": 11.1,
+    "vs_slash": 10.6,
+    "vs_thrust": 9.2,
+    "magic": 7.6,
+    "fire": 7.4,
+    "lightning": 7.9,
+    "dark": 7.6,
+    "bleed": 43,
+    "poison": 43,
+    "frost": 43,
+    "curse": 39,
+    "poise": 17.3,
+    "weight": 15.8,
+    "durability": 500
+  }
+  

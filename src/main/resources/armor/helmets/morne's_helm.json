@@ -1,0 +1,19 @@
+{
+    "name": "Morne's Helm",
+    "physical": 6.8,
+    "vs_strike": 5.8,
+    "vs_slash": 6.8,
+    "vs_thrust": 6.8,
+    "magic": 5.5,
+    "fire": 5.4,
+    "lightning": 5.2,
+    "dark": 4.0,
+    "bleed": 31,
+    "poison": 17,
+    "frost": 27,
+    "curse": 17,
+    "poise": 8.0,
+    "weight": 7.7,
+    "durability": 470
+  }
+  

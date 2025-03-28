@@ -1,0 +1,19 @@
+{
+    "name": "Billed Mask",
+    "physical": 4.0,
+    "vs_strike": 2.8,
+    "vs_slash": 4.3,
+    "vs_thrust": 3.6,
+    "magic": 2.6,
+    "fire": 4.1,
+    "lightning": 2.0,
+    "dark": 3.7,
+    "bleed": 24,
+    "poison": 16,
+    "frost": 14,
+    "curse": 18,
+    "poise": 2.2,
+    "weight": 3.7,
+    "durability": 360
+  }
+  

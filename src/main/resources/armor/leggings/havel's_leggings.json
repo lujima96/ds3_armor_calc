@@ -1,0 +1,19 @@
+{
+    "name": "Havel's Leggings",
+    "physical": 10.7,
+    "vs_strike": 9.8,
+    "vs_slash": 10.6,
+    "vs_thrust": 10.1,
+    "magic": 8.1,
+    "fire": 9.3,
+    "lightning": 7.3,
+    "dark": 8.1,
+    "bleed": 45,
+    "poison": 43,
+    "frost": 43,
+    "curse": 38,
+    "poise": 17.6,
+    "weight": 15.4,
+    "durability": 500
+  }
+  

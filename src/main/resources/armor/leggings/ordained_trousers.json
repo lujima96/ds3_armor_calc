@@ -1,0 +1,19 @@
+{
+    "name": "Ordained Trousers",
+    "physical": 3.2,
+    "vs_strike": 2.2,
+    "vs_slash": 4.5,
+    "vs_thrust": 1.6,
+    "magic": 8.3,
+    "fire": 6.5,
+    "lightning": 7.2,
+    "dark": 7.2,
+    "bleed": 12,
+    "poison": 33,
+    "frost": 30,
+    "curse": 43,
+    "poise": 1.6,
+    "weight": 2.8,
+    "durability": 230
+  }
+  

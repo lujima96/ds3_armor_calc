@@ -1,0 +1,19 @@
+{
+    "name": "Elite Knight Gauntlets",
+    "physical": 3.4,
+    "vs_strike": 2.8,
+    "vs_slash": 3.5,
+    "vs_thrust": 3.4,
+    "magic": 2.6,
+    "fire": 3.0,
+    "lightning": 2.0,
+    "dark": 2.4,
+    "bleed": 18,
+    "poison": 13,
+    "frost": 14,
+    "curse": 9,
+    "poise": 2.3,
+    "weight": 3.4,
+    "durability": 350
+  }
+  

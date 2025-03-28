@@ -1,0 +1,19 @@
+{
+    "name": "Outrider Knight Helm",
+    "physical": 4.4,
+    "vs_strike": 2.8,
+    "vs_slash": 4.2,
+    "vs_thrust": 4.4,
+    "magic": 2.3,
+    "fire": 3.1,
+    "lightning": 2.3,
+    "dark": 1.1,
+    "bleed": 17,
+    "poison": 12,
+    "frost": 32,
+    "curse": 5,
+    "poise": 2.8,
+    "weight": 3.8,
+    "durability": 360
+  }
+  

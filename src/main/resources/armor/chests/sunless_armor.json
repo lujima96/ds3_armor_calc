@@ -1,0 +1,19 @@
+{
+    "name": "Sunless Armor",
+    "physical": 11.7,
+    "vs_strike": 9.1,
+    "vs_slash": 12.2,
+    "vs_thrust": 11.7,
+    "magic": 11.2,
+    "fire": 9.8,
+    "lightning": 6.0,
+    "dark": 11.7,
+    "bleed": 43,
+    "poison": 25,
+    "frost": 33,
+    "curse": 37,
+    "poise": 8.5,
+    "weight": 9.2,
+    "durability": 360
+  }
+  

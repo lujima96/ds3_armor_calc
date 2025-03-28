@@ -1,0 +1,19 @@
+{
+    "name": "Xanthous Trousers",
+    "physical": 4.6,
+    "vs_strike": 5.1,
+    "vs_slash": 3.4,
+    "vs_thrust": 4.6,
+    "magic": 7.0,
+    "fire": 3.4,
+    "lightning": 7.4,
+    "dark": 6.7,
+    "bleed": 22,
+    "poison": 35,
+    "frost": 35,
+    "curse": 28,
+    "poise": 1.5,
+    "weight": 3.9,
+    "durability": 260
+  }
+  

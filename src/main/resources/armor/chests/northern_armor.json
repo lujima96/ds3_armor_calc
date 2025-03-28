@@ -1,0 +1,19 @@
+{
+    "name": "Northern Armor",
+    "physical": 12.6,
+    "vs_strike": 12.6,
+    "vs_slash": 12.1,
+    "vs_thrust": 11.6,
+    "magic": 7.7,
+    "fire": 11.1,
+    "lightning": 4.4,
+    "dark": 6.8,
+    "bleed": 60,
+    "poison": 38,
+    "frost": 64,
+    "curse": 27,
+    "poise": 10.7,
+    "weight": 10.6,
+    "durability": 370
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Wolf Knight Armor",
+    "physical": 11.8,
+    "vs_strike": 10.1,
+    "vs_slash": 11.8,
+    "vs_thrust": 11.8,
+    "magic": 7.8,
+    "fire": 11.2,
+    "lightning": 5.5,
+    "dark": 10.0,
+    "bleed": 46,
+    "poison": 32,
+    "frost": 33,
+    "curse": 33,
+    "poise": 8.0,
+    "weight": 9.0,
+    "durability": 360
+  }
+  

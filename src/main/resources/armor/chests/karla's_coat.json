@@ -1,0 +1,19 @@
+{
+    "name": "Karla's Coat",
+    "physical": 3.9,
+    "vs_strike": 3.9,
+    "vs_slash": 3.9,
+    "vs_thrust": 2.9,
+    "magic": 14.1,
+    "fire": 13.3,
+    "lightning": 13.8,
+    "dark": 13.8,
+    "bleed": 20,
+    "poison": 35,
+    "frost": 31,
+    "curse": 53,
+    "poise": 1.3,
+    "weight": 3.6,
+    "durability": 220
+  }
+  

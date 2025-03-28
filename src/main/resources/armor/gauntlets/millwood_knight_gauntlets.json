@@ -1,0 +1,19 @@
+{
+    "name": "Millwood Knight Gauntlets",
+    "physical": 4.6,
+    "vs_strike": 3.4,
+    "vs_slash": 4.4,
+    "vs_thrust": 3.8,
+    "magic": 3.2,
+    "fire": 3.1,
+    "lightning": 3.2,
+    "dark": 3.1,
+    "bleed": 22,
+    "poison": 20,
+    "frost": 23,
+    "curse": 12,
+    "poise": 4.7,
+    "weight": 5.3,
+    "durability": 450
+  }
+  

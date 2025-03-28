@@ -1,0 +1,19 @@
+{
+    "name": "Leather Armor",
+    "physical": 6.8,
+    "vs_strike": 6.8,
+    "vs_slash": 6.8,
+    "vs_thrust": 6.8,
+    "magic": 8.3,
+    "fire": 9.0,
+    "lightning": 9.7,
+    "dark": 8.3,
+    "bleed": 36,
+    "poison": 58,
+    "frost": 58,
+    "curse": 43,
+    "poise": 3.3,
+    "weight": 5.4,
+    "durability": 250
+  }
+  

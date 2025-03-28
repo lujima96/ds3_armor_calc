@@ -1,0 +1,19 @@
+{
+    "name": "Brigand Armor",
+    "physical": 9.0,
+    "vs_strike": 8.1,
+    "vs_slash": 9.0,
+    "vs_thrust": 9.0,
+    "magic": 5.9,
+    "fire": 7.3,
+    "lightning": 8.2,
+    "dark": 5.9,
+    "bleed": 37,
+    "poison": 59,
+    "frost": 57,
+    "curse": 37,
+    "poise": 2.9,
+    "weight": 4.8,
+    "durability": 250
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Deserter Armor",
+    "physical": 11.7,
+    "vs_strike": 9.3,
+    "vs_slash": 11.7,
+    "vs_thrust": 11.1,
+    "magic": 6.6,
+    "fire": 7.5,
+    "lightning": 4.2,
+    "dark": 10.4,
+    "bleed": 50,
+    "poison": 33,
+    "frost": 36,
+    "curse": 22,
+    "poise": 8.6,
+    "weight": 8.6,
+    "durability": 350
+  }
+  

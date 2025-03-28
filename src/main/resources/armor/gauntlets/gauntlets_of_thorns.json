@@ -1,0 +1,19 @@
+{
+    "name": "Gauntlets of Thorns",
+    "physical": 2.8,
+    "vs_strike": 2.1,
+    "vs_slash": 3.6,
+    "vs_thrust": 2.9,
+    "magic": 1.9,
+    "fire": 1.9,
+    "lightning": 1.9,
+    "dark": 1.6,
+    "bleed": 21,
+    "poison": 8,
+    "frost": 10,
+    "curse": 7,
+    "poise": 1.8,
+    "weight": 2.8,
+    "durability": 350
+  }
+  

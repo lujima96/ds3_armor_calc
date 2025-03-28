@@ -1,0 +1,19 @@
+{
+    "name": "Millwood Knight Helm",
+    "physical": 6.7,
+    "vs_strike": 5.0,
+    "vs_slash": 6.3,
+    "vs_thrust": 5.5,
+    "magic": 4.6,
+    "fire": 4.5,
+    "lightning": 4.6,
+    "dark": 4.5,
+    "bleed": 29,
+    "poison": 26,
+    "frost": 30,
+    "curse": 16,
+    "poise": 6.9,
+    "weight": 6.7,
+    "durability": 450
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Black Leggings",
+    "physical": 5.2,
+    "vs_strike": 5.2,
+    "vs_slash": 6.4,
+    "vs_thrust": 4.7,
+    "magic": 6.7,
+    "fire": 8.1,
+    "lightning": 7.3,
+    "dark": 7.8,
+    "bleed": 26,
+    "poison": 38,
+    "frost": 32,
+    "curse": 46,
+    "poise": 2.8,
+    "weight": 4.5,
+    "durability": 280
+  }
+  

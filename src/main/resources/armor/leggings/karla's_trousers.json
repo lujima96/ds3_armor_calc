@@ -1,0 +1,19 @@
+{
+    "name": "Karla's Trousers",
+    "physical": 2.6,
+    "vs_strike": 2.6,
+    "vs_slash": 2.6,
+    "vs_thrust": 1.9,
+    "magic": 8.3,
+    "fire": 7.7,
+    "lightning": 8.1,
+    "dark": 8.1,
+    "bleed": 14,
+    "poison": 23,
+    "frost": 21,
+    "curse": 36,
+    "poise": 1.1,
+    "weight": 2.6,
+    "durability": 230
+  }
+  

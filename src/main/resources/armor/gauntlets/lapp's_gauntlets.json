@@ -1,0 +1,19 @@
+{
+    "name": "Lapp's Gauntlets",
+    "physical": 4.6,
+    "vs_strike": 3.9,
+    "vs_slash": 4.6,
+    "vs_thrust": 4.6,
+    "magic": 3.1,
+    "fire": 3.2,
+    "lightning": 2.8,
+    "dark": 3.1,
+    "bleed": 24,
+    "poison": 19,
+    "frost": 17,
+    "curse": 11,
+    "poise": 4.9,
+    "weight": 5.1,
+    "durability": 450
+  }
+  

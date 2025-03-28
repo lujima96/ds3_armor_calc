@@ -1,0 +1,19 @@
+{
+    "name": "Shira's Gloves",
+    "physical": 1.7,
+    "vs_strike": 2.1,
+    "vs_slash": 1.7,
+    "vs_thrust": 2.3,
+    "magic": 2.7,
+    "fire": 2.8,
+    "lightning": 2.7,
+    "dark": 1.9,
+    "bleed": 11,
+    "poison": 19,
+    "frost": 19,
+    "curse": 19,
+    "poise": 0.7,
+    "weight": 2.1,
+    "durability": 260
+  }
+  

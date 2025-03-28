@@ -1,0 +1,19 @@
+{
+    "name": "Cleric Hat",
+    "physical": 1.9,
+    "vs_strike": 1.4,
+    "vs_slash": 1.4,
+    "vs_thrust": 1.6,
+    "magic": 5.0,
+    "fire": 3.8,
+    "lightning": 4.9,
+    "dark": 5.0,
+    "bleed": 18,
+    "poison": 25,
+    "frost": 12,
+    "curse": 29,
+    "poise": 0.5,
+    "weight": 1.4,
+    "durability": 220
+  }
+  

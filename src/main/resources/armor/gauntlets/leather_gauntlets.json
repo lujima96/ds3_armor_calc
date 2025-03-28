@@ -1,0 +1,18 @@
+{
+  "name": "Leather Gauntlets",
+  "physical": 2.2,
+  "vs_strike": 2.0,
+  "vs_slash": 2.9,
+  "vs_thrust": 2.0,
+  "magic": 3.2,
+  "fire": 2.6,
+  "lightning": 3.2,
+  "dark": 3.3,
+  "bleed": 18,
+  "poison": 18,
+  "frost": 16,
+  "curse": 16,
+  "poise": 1.1,
+  "weight": 2.5,
+  "durability": 270
+}

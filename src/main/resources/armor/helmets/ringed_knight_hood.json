@@ -1,0 +1,19 @@
+{
+    "name": "Ringed Knight Hood",
+    "physical": 1.1,
+    "vs_strike": 0.8,
+    "vs_slash": 1.7,
+    "vs_thrust": 0.9,
+    "magic": 4.2,
+    "fire": 4.4,
+    "lightning": 4.5,
+    "dark": 4.0,
+    "bleed": 12,
+    "poison": 18,
+    "frost": 14,
+    "curse": 33,
+    "poise": 0.2,
+    "weight": 1.4,
+    "durability": 220
+  }
+  

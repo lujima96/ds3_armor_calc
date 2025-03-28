@@ -1,0 +1,19 @@
+{
+    "name": "Painting Guardian Hood",
+    "physical": 1.9,
+    "vs_strike": 1.5,
+    "vs_slash": 1.9,
+    "vs_thrust": 1.9,
+    "magic": 4.3,
+    "fire": 1.9,
+    "lightning": 2.3,
+    "dark": 1.9,
+    "bleed": 25,
+    "poison": 30,
+    "frost": 15,
+    "curse": 25,
+    "poise": 0.6,
+    "weight": 1.4,
+    "durability": 220
+  }
+  

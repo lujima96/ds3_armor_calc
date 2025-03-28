@@ -1,0 +1,19 @@
+{
+    "name": "Pale Shade Robe",
+    "physical": 4.3,
+    "vs_strike": 4.3,
+    "vs_slash": 4.3,
+    "vs_thrust": 3.3,
+    "magic": 13.4,
+    "fire": 12.8,
+    "lightning": 11.8,
+    "dark": 12.3,
+    "bleed": 35,
+    "poison": 60,
+    "frost": 32,
+    "curse": 70,
+    "poise": 2.0,
+    "weight": 3.6,
+    "durability": 220
+  }
+  

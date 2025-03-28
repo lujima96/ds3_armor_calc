@@ -1,0 +1,19 @@
+{
+    "name": "Violet Wrappings",
+    "physical": 0.7,
+    "vs_strike": 0.5,
+    "vs_slash": 0.4,
+    "vs_thrust": 0.4,
+    "magic": 3.0,
+    "fire": 2.5,
+    "lightning": 2.8,
+    "dark": 2.9,
+    "bleed": 11,
+    "poison": 17,
+    "frost": 10,
+    "curse": 21,
+    "poise": 0.1,
+    "weight": 0.9,
+    "durability": 210
+  }
+  

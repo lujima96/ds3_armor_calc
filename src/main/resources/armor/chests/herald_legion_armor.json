@@ -1,0 +1,19 @@
+{
+    "name": "Harald Legion Armor",
+    "physical": 18.3,
+    "vs_strike": 16.7,
+    "vs_slash": 18.6,
+    "vs_thrust": 18.3,
+    "magic": 12.6,
+    "fire": 12.7,
+    "lightning": 12.2,
+    "dark": 13.6,
+    "bleed": 68,
+    "poison": 62,
+    "frost": 61,
+    "curse": 60,
+    "poise": 20.7,
+    "weight": 17.2,
+    "durability": 470
+  }
+  

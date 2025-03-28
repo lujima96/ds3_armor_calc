@@ -1,0 +1,19 @@
+{
+    "name": "Pontiff Knight Gauntlets",
+    "physical": 2.1,
+    "vs_strike": 1.1,
+    "vs_slash": 2.1,
+    "vs_thrust": 1.9,
+    "magic": 3.6,
+    "fire": 2.6,
+    "lightning": 3.3,
+    "dark": 3.7,
+    "bleed": 14,
+    "poison": 13,
+    "frost": 28,
+    "curse": 10,
+    "poise": 0.7,
+    "weight": 2.2,
+    "durability": 280
+  }
+  

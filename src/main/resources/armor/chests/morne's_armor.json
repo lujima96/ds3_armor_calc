@@ -1,0 +1,19 @@
+{
+    "name": "Morne's Armor",
+    "physical": 17.4,
+    "vs_strike": 14.3,
+    "vs_slash": 17.4,
+    "vs_thrust": 16.6,
+    "magic": 13.9,
+    "fire": 13.6,
+    "lightning": 13.3,
+    "dark": 9.3,
+    "bleed": 67,
+    "poison": 39,
+    "frost": 60,
+    "curse": 37,
+    "poise": 20.6,
+    "weight": 15.5,
+    "durability": 450
+  }
+  

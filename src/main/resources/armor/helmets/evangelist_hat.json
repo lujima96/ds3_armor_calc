@@ -1,0 +1,19 @@
+{
+    "name": "Evangelist Hat",
+    "physical": 3.5,
+    "vs_strike": 4.3,
+    "vs_slash": 3.2,
+    "vs_thrust": 2.9,
+    "magic": 4.1,
+    "fire": 4.6,
+    "lightning": 4.6,
+    "dark": 2.9,
+    "bleed": 15,
+    "poison": 27,
+    "frost": 24,
+    "curse": 25,
+    "poise": 2.1,
+    "weight": 3.5,
+    "durability": 28
+  }
+  

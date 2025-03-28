@@ -1,0 +1,19 @@
+{
+    "name": "Cathedral Knight Leggings",
+    "physical": 8.9,
+    "vs_strike": 9.1,
+    "vs_slash": 7.7,
+    "vs_thrust": 10.3,
+    "magic": 7.6,
+    "fire": 7.0,
+    "lightning": 7.4,
+    "dark": 6.2,
+    "bleed": 40,
+    "poison": 38,
+    "frost": 38,
+    "curse": 26,
+    "poise": 13.0,
+    "weight": 9.7,
+    "durability": 450
+  }
+  

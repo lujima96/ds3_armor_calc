@@ -1,0 +1,19 @@
+{
+    "name": "Embraced Armor of Favor",
+    "physical": 13.2,
+    "vs_strike": 12.1,
+    "vs_slash": 13.2,
+    "vs_thrust": 13.7,
+    "magic": 11.1,
+    "fire": 11.6,
+    "lightning": 8.5,
+    "dark": 11.6,
+    "bleed": 63,
+    "poison": 46,
+    "frost": 51,
+    "curse": 35,
+    "poise": 18.3,
+    "weight": 12.8,
+    "durability": 400
+  }
+  

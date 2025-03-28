@@ -1,0 +1,19 @@
+{
+    "name": "Black Iron Armor",
+    "physical": 18.1,
+    "vs_strike": 12.2,
+    "vs_slash": 18.1,
+    "vs_thrust": 18.1,
+    "magic": 12.2,
+    "fire": 15.8,
+    "lightning": 11.5,
+    "dark": 12.2,
+    "bleed": 65,
+    "poison": 51,
+    "frost": 57,
+    "curse": 35,
+    "poise": 20.9,
+    "weight": 15.8,
+    "durability": 460
+  }
+  

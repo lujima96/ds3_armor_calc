@@ -1,0 +1,19 @@
+{
+    "name": "Lapp's Armor",
+    "physical": 18.2,
+    "vs_strike": 15.5,
+    "vs_slash": 18.2,
+    "vs_thrust": 18.2,
+    "magic": 12.3,
+    "fire": 12.7,
+    "lightning": 11.2,
+    "dark": 12.3,
+    "bleed": 77,
+    "poison": 61,
+    "frost": 54,
+    "curse": 38,
+    "poise": 20.7,
+    "weight": 15.6,
+    "durability": 450
+  }
+  

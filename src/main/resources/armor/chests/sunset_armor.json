@@ -1,0 +1,19 @@
+{
+    "name": "Sunset Armor",
+    "physical": 14.3,
+    "vs_strike": 11.7,
+    "vs_slash": 15.6,
+    "vs_thrust": 14.3,
+    "magic": 9.8,
+    "fire": 11.7,
+    "lightning": 9.1,
+    "dark": 11.2,
+    "bleed": 63,
+    "poison": 58,
+    "frost": 39,
+    "curse": 42,
+    "poise": 16.5,
+    "weight": 13.3,
+    "durability": 400
+  }
+  

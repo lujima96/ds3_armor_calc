@@ -1,0 +1,19 @@
+{
+    "name": "Pontiff Knight Armor",
+    "physical": 9.3,
+    "vs_strike": 5.5,
+    "vs_slash": 9.3,
+    "vs_thrust": 8.6,
+    "magic": 12.9,
+    "fire": 9.3,
+    "lightning": 11.9,
+    "dark": 13.3,
+    "bleed": 40,
+    "poison": 36,
+    "frost": 81,
+    "curse": 29,
+    "poise": 6.0,
+    "weight": 7.3,
+    "durability": 280
+  }
+  

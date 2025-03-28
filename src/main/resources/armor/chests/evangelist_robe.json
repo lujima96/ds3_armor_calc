@@ -1,0 +1,19 @@
+{
+    "name": "Evangelist Robe",
+    "physical": 12.8,
+    "vs_strike": 12.3,
+    "vs_slash": 12.3,
+    "vs_thrust": 11.6,
+    "magic": 10.6,
+    "fire": 12.3,
+    "lightning": 9.9,
+    "dark": 6.8,
+    "bleed": 49,
+    "poison": 42,
+    "frost": 36,
+    "curse": 35,
+    "poise": 12.5,
+    "weight": 11.9,
+    "durability": 380
+  }
+  

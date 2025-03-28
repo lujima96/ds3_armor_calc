@@ -1,0 +1,19 @@
+{
+    "name": "Pyromancer Wrap",
+    "physical": 1.4,
+    "vs_strike": 1.4,
+    "vs_slash": 1.2,
+    "vs_thrust": 1.2,
+    "magic": 3.5,
+    "fire": 3.6,
+    "lightning": 3.5,
+    "dark": 3.6,
+    "bleed": 6,
+    "poison": 14,
+    "frost": 11,
+    "curse": 22,
+    "poise": 0.8,
+    "weight": 1.5,
+    "durability": 230
+  }
+  

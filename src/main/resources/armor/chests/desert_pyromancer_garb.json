@@ -1,0 +1,19 @@
+{
+    "name": "Desert Pyromancer Garb",
+    "physical": 3.7,
+    "vs_strike": 2.9,
+    "vs_slash": 2.4,
+    "vs_thrust": 2.4,
+    "magic": 10.5,
+    "fire": 11.1,
+    "lightning": 12.7,
+    "dark": 11.7,
+    "bleed": 16,
+    "poison": 64,
+    "frost": 25,
+    "curse": 66,
+    "poise": 0.9,
+    "weight": 2.3,
+    "durability": 200
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Dark Armor",
+    "physical": 12.6,
+    "vs_strike": 9.2,
+    "vs_slash": 11.6,
+    "vs_thrust": 11.1,
+    "magic": 9.2,
+    "fire": 7.7,
+    "lightning": 4.4,
+    "dark": 9.2,
+    "bleed": 38,
+    "poison": 30,
+    "frost": 33,
+    "curse": 14,
+    "poise": 8.8,
+    "weight": 9.1,
+    "durability": 350
+  }
+  

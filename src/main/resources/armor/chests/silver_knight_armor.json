@@ -1,0 +1,19 @@
+{
+    "name": "Silver Knight Armor",
+    "physical": 14.3,
+    "vs_strike": 13.1,
+    "vs_slash": 17.0,
+    "vs_thrust": 16.3,
+    "magic": 13.1,
+    "fire": 12.9,
+    "lightning": 11.9,
+    "dark": 11.9,
+    "bleed": 65,
+    "poison": 55,
+    "frost": 50,
+    "curse": 39,
+    "poise": 19.9,
+    "weight": 14.4,
+    "durability": 420
+  }
+  

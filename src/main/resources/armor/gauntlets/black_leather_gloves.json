@@ -1,0 +1,19 @@
+{
+    "name": "Black Leather Gloves",
+    "physical": 2.2,
+    "vs_strike": 2.0,
+    "vs_slash": 2.3,
+    "vs_thrust": 1.8,
+    "magic": 2.1,
+    "fire": 1.9,
+    "lightning": 2.9,
+    "dark": 2.3,
+    "bleed": 14,
+    "poison": 20,
+    "frost": 18,
+    "curse": 14,
+    "poise": 1.7,
+    "weight": 2.3,
+    "durability": 270
+  }
+  

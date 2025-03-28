@@ -1,0 +1,19 @@
+{
+    "name": "Herald Trousers",
+    "physical": 7.1,
+    "vs_strike": 6.5,
+    "vs_slash": 6.8,
+    "vs_thrust": 6.5,
+    "magic": 4.6,
+    "fire": 4.6,
+    "lightning": 1.8,
+    "dark": 4.1,
+    "bleed": 26,
+    "poison": 20,
+    "frost": 20,
+    "curse": 11,
+    "poise": 5.1,
+    "weight": 5.3,
+    "durability": 350
+  }
+  

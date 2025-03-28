@@ -1,0 +1,19 @@
+{
+    "name": "Silver Knight Helm",
+    "physical": 5.1,
+    "vs_strike": 4.7,
+    "vs_slash": 6.0,
+    "vs_thrust": 5.8,
+    "magic": 4.9,
+    "fire": 4.7,
+    "lightning": 4.3,
+    "dark": 4.3,
+    "bleed": 24,
+    "poison": 19,
+    "frost": 17,
+    "curse": 13,
+    "poise": 6.8,
+    "weight": 5.9,
+    "durability": 410
+  }
+  

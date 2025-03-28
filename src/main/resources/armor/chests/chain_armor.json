@@ -1,0 +1,19 @@
+{
+    "name": "Chain Armor",
+    "physical": 11.1,
+    "vs_strike": 6.8,
+    "vs_slash": 13.2,
+    "vs_thrust": 10.0,
+    "magic": 8.3,
+    "fire": 6.6,
+    "lightning": 4.2,
+    "dark": 9.0,
+    "bleed": 63,
+    "poison": 33,
+    "frost": 33,
+    "curse": 22,
+    "poise": 6.8,
+    "weight": 8.8,
+    "durability": 350
+  }
+  

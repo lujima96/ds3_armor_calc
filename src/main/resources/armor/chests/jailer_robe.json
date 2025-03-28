@@ -1,0 +1,19 @@
+{
+    "name": "Jailer Robe",
+    "physical": 8.2,
+    "vs_strike": 4.2,
+    "vs_slash": 8.2,
+    "vs_thrust": 6.0,
+    "magic": 13.5,
+    "fire": 13.1,
+    "lightning": 11.4,
+    "dark": 13.5,
+    "bleed": 24,
+    "poison": 37,
+    "frost": 32,
+    "curse": 87,
+    "poise": 2.0,
+    "weight": 4.8,
+    "durability": 230
+  }
+  

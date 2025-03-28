@@ -1,0 +1,19 @@
+{
+    "name": "Leather Boots",
+    "physical": 4.2,
+    "vs_strike": 4.2,
+    "vs_slash": 4.2,
+    "vs_thrust": 4.2,
+    "magic": 5.5,
+    "fire": 5.9,
+    "lightning": 6.3,
+    "dark": 5.5,
+    "bleed": 24,
+    "poison": 37,
+    "frost": 37,
+    "curse": 28,
+    "poise": 2.8,
+    "weight": 3.3,
+    "durability": 250
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Old Sage's Blindfold",
+    "physical": 1.0,
+    "vs_strike": 0.8,
+    "vs_slash": 0.8,
+    "vs_thrust": 0.8,
+    "magic": 4.0,
+    "fire": 4.4,
+    "lightning": 3.8,
+    "dark": 4.2,
+    "bleed": 10,
+    "poison": 14,
+    "frost": 11,
+    "curse": 28,
+    "poise": 0.0,
+    "weight": 1.0,
+    "durability": 200
+  }
+  

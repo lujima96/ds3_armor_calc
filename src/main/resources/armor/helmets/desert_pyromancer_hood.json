@@ -1,0 +1,19 @@
+{
+    "name": "Desert Pyromancer Hood",
+    "physical": 1.9,
+    "vs_strike": 0.8,
+    "vs_slash": 1.2,
+    "vs_thrust": 1.2,
+    "magic": 3.6,
+    "fire": 4.5,
+    "lightning": 4.2,
+    "dark": 4.7,
+    "bleed": 10,
+    "poison": 30,
+    "frost": 13,
+    "curse": 31,
+    "poise": 0.3,
+    "weight": 1.2,
+    "durability": 210
+  }
+  

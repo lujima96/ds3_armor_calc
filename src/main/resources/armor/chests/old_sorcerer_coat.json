@@ -1,0 +1,19 @@
+{
+    "name": "Old Sorcerer Coat",
+    "physical": 3.6,
+    "vs_strike": 3.1,
+    "vs_slash": 3.1,
+    "vs_thrust": 3.6,
+    "magic": 12.7,
+    "fire": 11.6,
+    "lightning": 12.1,
+    "dark": 12.7,
+    "bleed": 32,
+    "poison": 40,
+    "frost": 35,
+    "curse": 70,
+    "poise": 1.0,
+    "weight": 3.7,
+    "durability": 220
+  }
+  

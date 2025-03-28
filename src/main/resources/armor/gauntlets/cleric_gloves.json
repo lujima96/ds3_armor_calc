@@ -1,0 +1,19 @@
+{
+    "name": "Cleric Gloves",
+    "physical": 1.1,
+    "vs_strike": 0.7,
+    "vs_slash": 0.7,
+    "vs_thrust": 0.9,
+    "magic": 2.8,
+    "fire": 2.1,
+    "lightning": 2.8,
+    "dark": 2.9,
+    "bleed": 17,
+    "poison": 21,
+    "frost": 11,
+    "curse": 25,
+    "poise": 0.5,
+    "weight": 1.5,
+    "durability": 230
+  }
+  

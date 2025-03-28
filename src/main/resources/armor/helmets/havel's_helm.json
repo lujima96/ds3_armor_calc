@@ -1,0 +1,19 @@
+{
+    "name": "Havel's Helm",
+    "physical": 6.7,
+    "vs_strike": 6.1,
+    "vs_slash": 6.7,
+    "vs_thrust": 6.3,
+    "magic": 5.0,
+    "fire": 5.8,
+    "lightning": 4.6,
+    "dark": 5.0,
+    "bleed": 31,
+    "poison": 30,
+    "frost": 30,
+    "curse": 26,
+    "poise": 10.2,
+    "weight": 10.8,
+    "durability": 500
+  }
+  

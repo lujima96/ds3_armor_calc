@@ -1,0 +1,19 @@
+{
+    "name": "Creighton's Steel Mask",
+    "physical": 4.5,
+    "vs_strike": 3.9,
+    "vs_slash": 6.0,
+    "vs_thrust": 4.1,
+    "magic": 3.9,
+    "fire": 4.2,
+    "lightning": 2.5,
+    "dark": 4.1,
+    "bleed": 26,
+    "poison": 19,
+    "frost": 19,
+    "curse": 12,
+    "poise": 6.6,
+    "weight": 5.7,
+    "durability": 410
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Hard Leather Gauntlets",
+    "physical": 2.1,
+    "vs_strike": 2.2,
+    "vs_slash": 2.1,
+    "vs_thrust": 2.1,
+    "magic": 1.5,
+    "fire": 1.7,
+    "lightning": 1.0,
+    "dark": 1.5,
+    "bleed": 16,
+    "poison": 22,
+    "frost": 21,
+    "curse": 17,
+    "poise": 0.8,
+    "weight": 2.0,
+    "durability": 270
+  }
+  

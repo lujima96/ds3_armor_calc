@@ -1,0 +1,19 @@
+{
+    "name": "Lothric Knight Helm",
+    "physical": 5.2,
+    "vs_strike": 4.0,
+    "vs_slash": 6.3,
+    "vs_thrust": 5.0,
+    "magic": 4.2,
+    "fire": 4.7,
+    "lightning": 3.1,
+    "dark": 3.8,
+    "bleed": 31,
+    "poison": 18,
+    "frost": 22,
+    "curse": 14,
+    "poise": 6.3,
+    "weight": 5.8,
+    "durability": 410
+  }
+  

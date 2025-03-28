@@ -1,0 +1,19 @@
+{
+    "name": "Sunless Gauntlets",
+    "physical": 2.6,
+    "vs_strike": 2.0,
+    "vs_slash": 2.8,
+    "vs_thrust": 2.6,
+    "magic": 2.5,
+    "fire": 2.2,
+    "lightning": 1.4,
+    "dark": 2.6,
+    "bleed": 13,
+    "poison": 7,
+    "frost": 9,
+    "curse": 7,
+    "poise": 1.7,
+    "weight": 3.5,
+    "durability": 370
+  }
+  

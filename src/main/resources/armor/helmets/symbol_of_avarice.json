@@ -1,0 +1,19 @@
+{
+    "name": "Symbol of Avarice",
+    "physical": 5.8,
+    "vs_strike": 5.6,
+    "vs_slash": 5.0,
+    "vs_thrust": 4.4,
+    "magic": 4.1,
+    "fire": 3.4,
+    "lightning": 4.8,
+    "dark": 3.8,
+    "bleed": 27,
+    "poison": 27,
+    "frost": 27,
+    "curse": 22,
+    "poise": 8.9,
+    "weight": 10.6,
+    "durability": 500
+  }
+  

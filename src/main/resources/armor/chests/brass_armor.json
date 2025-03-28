@@ -1,0 +1,19 @@
+{
+    "name": "Brass Armor",
+    "physical": 13.3,
+    "vs_strike": 10.7,
+    "vs_slash": 13.3,
+    "vs_thrust": 11.8,
+    "magic": 13.6,
+    "fire": 10.0,
+    "lightning": 6.9,
+    "dark": 10.0,
+    "bleed": 60,
+    "poison": 33,
+    "frost": 36,
+    "curse": 27,
+    "poise": 9.9,
+    "weight": 10.5,
+    "durability": 370
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Court Sorcerer Gloves",
+    "physical": 1.0,
+    "vs_strike": 1.1,
+    "vs_slash": 1.0,
+    "vs_thrust": 1.1,
+    "magic": 3.2,
+    "fire": 3.0,
+    "lightning": 3.6,
+    "dark": 3.5,
+    "bleed": 7,
+    "poison": 12,
+    "frost": 7,
+    "curse": 21,
+    "poise": 0.5,
+    "weight": 1.0,
+    "durability": 210
+  }
+  

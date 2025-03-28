@@ -1,0 +1,19 @@
+{
+    "name": "Gauntlets of Favor",
+    "physical": 3.5,
+    "vs_strike": 3.2,
+    "vs_slash": 3.5,
+    "vs_thrust": 3.5,
+    "magic": 3.0,
+    "fire": 3.1,
+    "lightning": 2.2,
+    "dark": 3.1,
+    "bleed": 19,
+    "poison": 13,
+    "frost": 14,
+    "curse": 10,
+    "poise": 4.0,
+    "weight": 4.0,
+    "durability": 380
+  }
+  

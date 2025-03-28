@@ -1,0 +1,19 @@
+{
+    "name": "Evangelist Trousers",
+    "physical": 5.5,
+    "vs_strike": 6.9,
+    "vs_slash": 5.1,
+    "vs_thrust": 4.6,
+    "magic": 6.6,
+    "fire": 7.3,
+    "lightning": 7.3,
+    "dark": 4.6,
+    "bleed": 22,
+    "poison": 39,
+    "frost": 35,
+    "curse": 37,
+    "poise": 3.6,
+    "weight": 4.6,
+    "durability": 280
+  }
+  

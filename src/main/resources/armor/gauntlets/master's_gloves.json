@@ -1,0 +1,19 @@
+{
+    "name": "Master's Gloves",
+    "physical": 0.4,
+    "vs_strike": 0.4,
+    "vs_slash": 0.4,
+    "vs_thrust": 0.3,
+    "magic": 1.9,
+    "fire": 1.5,
+    "lightning": 1.7,
+    "dark": 1.9,
+    "bleed": 14,
+    "poison": 22,
+    "frost": 9,
+    "curse": 26,
+    "poise": 0.0,
+    "weight": 0.3,
+    "durability": 100
+  }
+  

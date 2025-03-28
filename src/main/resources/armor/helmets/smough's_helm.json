@@ -1,0 +1,19 @@
+{
+    "name": "Smough's Helm",
+    "physical": 6.8,
+    "vs_strike": 7.0,
+    "vs_slash": 6.7,
+    "vs_thrust": 5.8,
+    "magic": 4.7,
+    "fire": 4.6,
+    "lightning": 4.9,
+    "dark": 4.9,
+    "bleed": 27,
+    "poison": 27,
+    "frost": 27,
+    "curse": 24,
+    "poise": 9.9,
+    "weight": 11.8,
+    "durability": 500
+  }
+  

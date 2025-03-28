@@ -1,0 +1,19 @@
+{
+    "name": "Sorcerer Gloves",
+    "physical": 1.3,
+    "vs_strike": 1.3,
+    "vs_slash": 1.3,
+    "vs_thrust": 1.1,
+    "magic": 3.5,
+    "fire": 3.3,
+    "lightning": 3.4,
+    "dark": 3.5,
+    "bleed": 8,
+    "poison": 13,
+    "frost": 10,
+    "curse": 23,
+    "poise": 0.6,
+    "weight": 1.3,
+    "durability": 230
+  }
+  

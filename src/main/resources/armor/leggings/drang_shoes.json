@@ -1,0 +1,19 @@
+{
+    "name": "Drang Shoes",
+    "physical": 4.7,
+    "vs_strike": 5.2,
+    "vs_slash": 5.2,
+    "vs_thrust": 5.2,
+    "magic": 6.3,
+    "fire": 5.0,
+    "lightning": 7.0,
+    "dark": 6.3,
+    "bleed": 24,
+    "poison": 37,
+    "frost": 39,
+    "curse": 26,
+    "poise": 1.3,
+    "weight": 4.2,
+    "durability": 250
+  }
+  

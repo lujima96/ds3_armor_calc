@@ -1,0 +1,19 @@
+{
+    "name": "Brass Leggings",
+    "physical": 7.8,
+    "vs_strike": 6.3,
+    "vs_slash": 7.8,
+    "vs_thrust": 6.9,
+    "magic": 8.1,
+    "fire": 6.0,
+    "lightning": 4.2,
+    "dark": 6.0,
+    "bleed": 39,
+    "poison": 22,
+    "frost": 24,
+    "curse": 18,
+    "poise": 6.3,
+    "weight": 6.7,
+    "durability": 370
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Ringed Knight Armor",
+    "physical": 14.9,
+    "vs_strike": 11.6,
+    "vs_slash": 16.3,
+    "vs_thrust": 14.3,
+    "magic": 11.1,
+    "fire": 13.2,
+    "lightning": 12.2,
+    "dark": 9.8,
+    "bleed": 60,
+    "poison": 36,
+    "frost": 40,
+    "curse": 34,
+    "poise": 14.9,
+    "weight": 12.6,
+    "durability": 400
+  }
+  

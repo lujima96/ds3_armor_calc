@@ -1,0 +1,19 @@
+{
+    "name": "Thrall Hood",
+    "physical": 2.0,
+    "vs_strike": 1.4,
+    "vs_slash": 1.6,
+    "vs_thrust": 1.2,
+    "magic": 4.2,
+    "fire": 3.8,
+    "lightning": 4.0,
+    "dark": 4.2,
+    "bleed": 17,
+    "poison": 28,
+    "frost": 19,
+    "curse": 38,
+    "poise": 0.8,
+    "weight": 1.5,
+    "durability": 220
+  }
+  

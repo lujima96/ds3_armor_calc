@@ -1,0 +1,19 @@
+{
+    "name": "Pontiff Knight Leggings",
+    "physical": 5.1,
+    "vs_strike": 3.0,
+    "vs_slash": 5.1,
+    "vs_thrust": 4.7,
+    "magic": 7.6,
+    "fire": 5.5,
+    "lightning": 7.0,
+    "dark": 7.8,
+    "bleed": 23,
+    "poison": 21,
+    "frost": 48,
+    "curse": 16,
+    "poise": 2.8,
+    "weight": 4.3,
+    "durability": 280
+  }
+  

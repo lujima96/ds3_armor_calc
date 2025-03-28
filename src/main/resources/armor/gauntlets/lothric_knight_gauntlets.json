@@ -1,0 +1,19 @@
+{
+    "name": "Lothric Knight Gauntlets",
+    "physical": 3.8,
+    "vs_strike": 2.9,
+    "vs_slash": 4.6,
+    "vs_thrust": 3.6,
+    "magic": 3.1,
+    "fire": 3.3,
+    "lightning": 2.3,
+    "dark": 2.8,
+    "bleed": 25,
+    "poison": 15,
+    "frost": 19,
+    "curse": 12,
+    "poise": 4.5,
+    "weight": 4.8,
+    "durability": 420
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Millwood Knight Leggings",
+    "physical": 10.6,
+    "vs_strike": 8.0,
+    "vs_slash": 10.1,
+    "vs_thrust": 8.8,
+    "magic": 7.4,
+    "fire": 7.2,
+    "lightning": 7.4,
+    "dark": 7.2,
+    "bleed": 41,
+    "poison": 38,
+    "frost": 43,
+    "curse": 23,
+    "poise": 12.6,
+    "weight": 9.7,
+    "durability": 450
+  }
+  

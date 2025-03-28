@@ -1,0 +1,19 @@
+{
+    "name": "Northern Trousers",
+    "physical": 6.1,
+    "vs_strike": 7.6,
+    "vs_slash": 6.1,
+    "vs_thrust": 6.1,
+    "magic": 2.9,
+    "fire": 6.8,
+    "lightning": 5.7,
+    "dark": 2.9,
+    "bleed": 24,
+    "poison": 32,
+    "frost": 42,
+    "curse": 32,
+    "poise": 3.1,
+    "weight": 4.3,
+    "durability": 270
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Wolf Knight Leggings",
+    "physical": 6.6,
+    "vs_strike": 5.5,
+    "vs_slash": 6.6,
+    "vs_thrust": 6.6,
+    "magic": 4.2,
+    "fire": 6.4,
+    "lightning": 2.8,
+    "dark": 5.6,
+    "bleed": 25,
+    "poison": 15,
+    "frost": 19,
+    "curse": 19,
+    "poise": 4.6,
+    "weight": 5.1,
+    "durability": 350
+  }
+  

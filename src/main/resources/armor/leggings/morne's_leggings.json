@@ -1,0 +1,19 @@
+{
+    "name": "Morne's Leggings",
+    "physical": 9.8,
+    "vs_strike": 8.1,
+    "vs_slash": 9.8,
+    "vs_thrust": 9.3,
+    "magic": 8.1,
+    "fire": 7.9,
+    "lightning": 7.8,
+    "dark": 5.2,
+    "bleed": 40,
+    "poison": 23,
+    "frost": 36,
+    "curse": 22,
+    "poise": 12.8,
+    "weight": 9.3,
+    "durability": 430
+  }
+  

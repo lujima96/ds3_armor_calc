@@ -1,0 +1,19 @@
+{
+    "name": "Black Hand Armor",
+    "physical": 9.0,
+    "vs_strike": 8.1,
+    "vs_slash": 11.5,
+    "vs_thrust": 9.7,
+    "magic": 12.6,
+    "fire": 12.8,
+    "lightning": 10.4,
+    "dark": 9.0,
+    "bleed": 46,
+    "poison": 67,
+    "frost": 51,
+    "curse": 58,
+    "poise": 4.9,
+    "weight": 7.8,
+    "durability": 280
+  }
+  

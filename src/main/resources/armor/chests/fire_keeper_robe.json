@@ -1,0 +1,19 @@
+{
+    "name": "Fire Keeper Robe",
+    "physical": 5.7,
+    "vs_strike": 7.1,
+    "vs_slash": 7.1,
+    "vs_thrust": 8.0,
+    "magic": 7.1,
+    "fire": 11.9,
+    "lightning": 8.8,
+    "dark": 12.4,
+    "bleed": 36,
+    "poison": 54,
+    "frost": 49,
+    "curse": 42,
+    "poise": 1.9,
+    "weight": 5.1,
+    "durability": 250
+  }
+  

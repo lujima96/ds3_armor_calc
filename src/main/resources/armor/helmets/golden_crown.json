@@ -1,0 +1,19 @@
+{
+    "name": "Golden Crown",
+    "physical": 3.6,
+    "vs_strike": 3.0,
+    "vs_slash": 3.0,
+    "vs_thrust": 2.2,
+    "magic": 4.2,
+    "fire": 4.8,
+    "lightning": 3.8,
+    "dark": 4.2,
+    "bleed": 21,
+    "poison": 29,
+    "frost": 28,
+    "curse": 27,
+    "poise": 2.2,
+    "weight": 3.5,
+    "durability": 280
+  }
+  

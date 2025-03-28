@@ -1,0 +1,19 @@
+{
+    "name": "Karla's Pointed Hat",
+    "physical": 1.6,
+    "vs_strike": 1.4,
+    "vs_slash": 1.4,
+    "vs_thrust": 1.2,
+    "magic": 5.0,
+    "fire": 4.7,
+    "lightning": 4.9,
+    "dark": 4.9,
+    "bleed": 9,
+    "poison": 15,
+    "frost": 13,
+    "curse": 23,
+    "poise": 0.4,
+    "weight": 1.7,
+    "durability": 220
+  }
+  

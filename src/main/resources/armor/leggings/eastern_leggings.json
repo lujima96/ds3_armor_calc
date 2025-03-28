@@ -1,0 +1,19 @@
+{
+    "name": "Eastern Leggings",
+    "physical": 5.1,
+    "vs_strike": 4.7,
+    "vs_slash": 7.5,
+    "vs_thrust": 4.6,
+    "magic": 5.4,
+    "fire": 7.2,
+    "lightning": 6.6,
+    "dark": 5.4,
+    "bleed": 47,
+    "poison": 40,
+    "frost": 41,
+    "curse": 39,
+    "poise": 4.3,
+    "weight": 5.0,
+    "durability": 280
+  }
+  

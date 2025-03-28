@@ -1,0 +1,19 @@
+{
+    "name": "Elite Knight Armor",
+    "physical": 12.1,
+    "vs_strike": 9.2,
+    "vs_slash": 12.1,
+    "vs_thrust": 11.1,
+    "magic": 9.2,
+    "fire": 10.6,
+    "lightning": 6.8,
+    "dark": 8.5,
+    "bleed": 46,
+    "poison": 32,
+    "frost": 33,
+    "curse": 18,
+    "poise": 8.8,
+    "weight": 8.9,
+    "durability": 350
+  }
+  

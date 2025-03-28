@@ -1,0 +1,19 @@
+{
+    "name": "Black Witch Hat",
+    "physical": 1.9,
+    "vs_strike": 1.1,
+    "vs_slash": 1.1,
+    "vs_thrust": 1.4,
+    "magic": 4.9,
+    "fire": 4.8,
+    "lightning": 4.8,
+    "dark": 5.0,
+    "bleed": 6,
+    "poison": 17,
+    "frost": 12,
+    "curse": 30,
+    "poise": 0.2,
+    "weight": 1.8,
+    "durability": 230
+  }
+  

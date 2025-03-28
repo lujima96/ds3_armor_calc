@@ -1,0 +1,19 @@
+{
+    "name": "Ruin Sentinel Helm",
+    "physical": 4.6,
+    "vs_strike": 4.3,
+    "vs_slash": 5.5,
+    "vs_thrust": 4.6,
+    "magic": 4.2,
+    "fire": 3.8,
+    "lightning": 4.0,
+    "dark": 3.4,
+    "bleed": 25,
+    "poison": 24,
+    "frost": 13,
+    "curse": 12,
+    "poise": 6.1,
+    "weight": 5.4,
+    "durability": 400
+  }
+  

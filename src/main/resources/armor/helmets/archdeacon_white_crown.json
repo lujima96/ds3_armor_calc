@@ -1,0 +1,19 @@
+{
+    "name": "Archdeacon White Crown",
+    "physical": 1.6,
+    "vs_strike": 2.7,
+    "vs_slash": 1.9,
+    "vs_thrust": 1.9,
+    "magic": 5.0,
+    "fire": 4.6,
+    "lightning": 5.0,
+    "dark": 5.4,
+    "bleed": 11,
+    "poison": 19,
+    "frost": 19,
+    "curse": 38,
+    "poise": 1.6,
+    "weight": 1.8,
+    "durability": 230
+  }
+  

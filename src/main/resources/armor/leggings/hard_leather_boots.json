@@ -1,0 +1,19 @@
+{
+    "name": "Hard Leather Boots",
+    "physical": 5.1,
+    "vs_strike": 5.5,
+    "vs_slash": 5.1,
+    "vs_thrust": 5.1,
+    "magic": 4.1,
+    "fire": 4.6,
+    "lightning": 2.8,
+    "dark": 4.1,
+    "bleed": 26,
+    "poison": 38,
+    "frost": 35,
+    "curse": 29,
+    "poise": 2.9,
+    "weight": 4.7,
+    "durability": 270
+  }
+  

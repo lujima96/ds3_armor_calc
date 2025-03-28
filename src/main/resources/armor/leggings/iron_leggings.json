@@ -1,0 +1,19 @@
+{
+    "name": "Iron Leggings",
+    "physical": 5.9,
+    "vs_strike": 4.2,
+    "vs_slash": 5.9,
+    "vs_thrust": 5.9,
+    "magic": 5.5,
+    "fire": 5.5,
+    "lightning": 5.1,
+    "dark": 5.5,
+    "bleed": 21,
+    "poison": 17,
+    "frost": 19,
+    "curse": 16,
+    "poise": 6.4,
+    "weight": 5.0,
+    "durability": 350
+  }
+  

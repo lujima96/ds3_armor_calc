@@ -1,0 +1,19 @@
+{
+    "name": "Dragonslayer Gauntlets",
+    "physical": 3.7,
+    "vs_strike": 3.0,
+    "vs_slash": 4.1,
+    "vs_thrust": 4.1,
+    "magic": 3.3,
+    "fire": 3.7,
+    "lightning": 3.7,
+    "dark": 2.6,
+    "bleed": 21,
+    "poison": 13,
+    "frost": 14,
+    "curse": 12,
+    "poise": 4.2,
+    "weight": 4.1,
+    "durability": 400
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Fallen Knight Helm",
+    "physical": 4.6,
+    "vs_strike": 4.5,
+    "vs_slash": 3.6,
+    "vs_thrust": 4.0,
+    "magic": 3.1,
+    "fire": 4.2,
+    "lightning": 3.5,
+    "dark": 2.6,
+    "bleed": 21,
+    "poison": 14,
+    "frost": 19,
+    "curse": 12,
+    "poise": 3.5,
+    "weight": 4.6,
+    "durability": 370
+  }
+  

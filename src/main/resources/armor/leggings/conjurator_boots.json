@@ -1,0 +1,19 @@
+{
+    "name": "Conjurator Boots",
+    "physical": 2.3,
+    "vs_strike": 2.3,
+    "vs_slash": 2.3,
+    "vs_thrust": 2.0,
+    "magic": 7.0,
+    "fire": 8.1,
+    "lightning": 7.9,
+    "dark": 7.3,
+    "bleed": 19,
+    "poison": 39,
+    "frost": 27,
+    "curse": 38,
+    "poise": 1.0,
+    "weight": 2.6,
+    "durability": 230
+  }
+  

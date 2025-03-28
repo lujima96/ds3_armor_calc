@@ -1,0 +1,19 @@
+{
+    "name": "Winged Knight Armor",
+    "physical": 17.5,
+    "vs_strike": 14.4,
+    "vs_slash": 17.5,
+    "vs_thrust": 16.8,
+    "magic": 14.3,
+    "fire": 14.0,
+    "lightning": 15.0,
+    "dark": 16.7,
+    "bleed": 73,
+    "poison": 60,
+    "frost": 68,
+    "curse": 45,
+    "poise": 24.9,
+    "weight": 18.2,
+    "durability": 480
+  }
+  

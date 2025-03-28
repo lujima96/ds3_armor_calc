@@ -1,0 +1,19 @@
+{
+    "name": "Karla's Gloves",
+    "physical": 0.8,
+    "vs_strike": 0.9,
+    "vs_slash": 0.9,
+    "vs_thrust": 0.9,
+    "magic": 3.5,
+    "fire": 3.3,
+    "lightning": 3.4,
+    "dark": 3.4,
+    "bleed": 7,
+    "poison": 12,
+    "frost": 10,
+    "curse": 18,
+    "poise": 0.3,
+    "weight": 1.2,
+    "durability": 220
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Grave Warden Hood",
+    "physical": 1.5,
+    "vs_strike": 1.2,
+    "vs_slash": 2.9,
+    "vs_thrust": 1.8,
+    "magic": 3.3,
+    "fire": 3.3,
+    "lightning": 4.0,
+    "dark": 1.4,
+    "bleed": 30,
+    "poison": 28,
+    "frost": 8,
+    "curse": 25,
+    "poise": 0.5,
+    "weight": 1.5,
+    "durability": 220
+  }
+  

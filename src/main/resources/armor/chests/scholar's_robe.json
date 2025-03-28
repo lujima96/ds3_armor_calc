@@ -1,0 +1,19 @@
+{
+    "name": "Scholar's Robe",
+    "physical": 6.9,
+    "vs_strike": 2.8,
+    "vs_slash": 4.5,
+    "vs_thrust": 5.6,
+    "magic": 13.3,
+    "fire": 11.2,
+    "lightning": 12.8,
+    "dark": 12.6,
+    "bleed": 36,
+    "poison": 43,
+    "frost": 39,
+    "curse": 71,
+    "poise": 3.6,
+    "weight": 4.2,
+    "durability": 230
+  }
+  

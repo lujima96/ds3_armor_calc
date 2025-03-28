@@ -1,0 +1,19 @@
+{
+    "name": "Grave Warden Skirt",
+    "physical": 2.0,
+    "vs_strike": 1.5,
+    "vs_slash": 4.3,
+    "vs_thrust": 2.5,
+    "magic": 4.8,
+    "fire": 4.8,
+    "lightning": 6.0,
+    "dark": 1.7,
+    "bleed": 42,
+    "poison": 40,
+    "frost": 11,
+    "curse": 35,
+    "poise": 0.3,
+    "weight": 2.2,
+    "durability": 220
+  }
+  

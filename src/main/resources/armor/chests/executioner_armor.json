@@ -1,0 +1,19 @@
+{
+    "name": "Executioner Armor",
+    "physical": 18.3,
+    "vs_strike": 12.4,
+    "vs_slash": 17.5,
+    "vs_thrust": 18.3,
+    "magic": 13.5,
+    "fire": 14.5,
+    "lightning": 11.4,
+    "dark": 13.3,
+    "bleed": 65,
+    "poison": 58,
+    "frost": 61,
+    "curse": 42,
+    "poise": 21.4,
+    "weight": 16.0,
+    "durability": 460
+  }
+  

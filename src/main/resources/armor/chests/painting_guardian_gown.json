@@ -1,0 +1,19 @@
+{
+    "name": "Painting Guardian Gown",
+    "physical": 4.4,
+    "vs_strike": 3.1,
+    "vs_slash": 4.4,
+    "vs_thrust": 4.4,
+    "magic": 11.1,
+    "fire": 4.4,
+    "lightning": 5.4,
+    "dark": 4.4,
+    "bleed": 59,
+    "poison": 71,
+    "frost": 36,
+    "curse": 60,
+    "poise": 0.5,
+    "weight": 3.5,
+    "durability": 220
+  }
+  

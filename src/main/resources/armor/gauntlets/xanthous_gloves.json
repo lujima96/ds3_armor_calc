@@ -1,0 +1,19 @@
+{
+    "name": "Xanthous Gloves",
+    "physical": 1.8,
+    "vs_strike": 2.0,
+    "vs_slash": 1.2,
+    "vs_thrust": 1.8,
+    "magic": 2.7,
+    "fire": 1.2,
+    "lightning": 2.9,
+    "dark": 2.6,
+    "bleed": 15,
+    "poison": 22,
+    "frost": 22,
+    "curse": 18,
+    "poise": 0.8,
+    "weight": 2.0,
+    "durability": 260
+  }
+  

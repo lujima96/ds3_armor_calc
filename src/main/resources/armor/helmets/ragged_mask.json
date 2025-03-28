@@ -1,0 +1,19 @@
+{
+    "name": "Ragged Mask",
+    "physical": 1.1,
+    "vs_strike": 1.1,
+    "vs_slash": 1.1,
+    "vs_thrust": 1.1,
+    "magic": 3.8,
+    "fire": 3.2,
+    "lightning": 3.5,
+    "dark": 3.8,
+    "bleed": 13,
+    "poison": 25,
+    "frost": 7,
+    "curse": 29,
+    "poise": 0.4,
+    "weight": 0.7,
+    "durability": 100
+  }
+  

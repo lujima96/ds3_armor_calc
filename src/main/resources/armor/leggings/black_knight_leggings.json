@@ -1,0 +1,19 @@
+{
+    "name": "Black Knight Leggings",
+    "physical": 9.0,
+    "vs_strike": 7.0,
+    "vs_slash": 8.3,
+    "vs_thrust": 7.9,
+    "magic": 6.6,
+    "fire": 8.5,
+    "lightning": 6.2,
+    "dark": 7.2,
+    "bleed": 38,
+    "poison": 27,
+    "frost": 26,
+    "curse": 26,
+    "poise": 9.5,
+    "weight": 8.2,
+    "durability": 400
+  }
+  

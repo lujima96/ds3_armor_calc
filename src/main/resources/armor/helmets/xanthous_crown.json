@@ -1,0 +1,19 @@
+{
+    "name": "Xanthous Crown",
+    "physical": 2.1,
+    "vs_strike": 2.6,
+    "vs_slash": 2.6,
+    "vs_thrust": 2.1,
+    "magic": 4.6,
+    "fire": 2.2,
+    "lightning": 4.8,
+    "dark": 4.6,
+    "bleed": 21,
+    "poison": 27,
+    "frost": 24,
+    "curse": 27,
+    "poise": 1.3,
+    "weight": 3.0,
+    "durability": 270
+  }
+  

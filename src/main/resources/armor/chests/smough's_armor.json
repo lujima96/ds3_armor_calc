@@ -1,0 +1,19 @@
+{
+    "name": "Smough's Armor",
+    "physical": 18.8,
+    "vs_strike": 19.2,
+    "vs_slash": 18.3,
+    "vs_thrust": 16.0,
+    "magic": 13.3,
+    "fire": 13.0,
+    "lightning": 13.8,
+    "dark": 13.1,
+    "bleed": 69,
+    "poison": 69,
+    "frost": 69,
+    "curse": 62,
+    "poise": 27.1,
+    "weight": 23.0,
+    "durability": 500
+  }
+  

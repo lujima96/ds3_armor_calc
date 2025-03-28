@@ -1,0 +1,19 @@
+{
+    "name": "Black Iron Helm",
+    "physical": 6.5,
+    "vs_strike": 4.5,
+    "vs_slash": 6.9,
+    "vs_thrust": 6.6,
+    "magic": 4.8,
+    "fire": 5.9,
+    "lightning": 4.4,
+    "dark": 4.8,
+    "bleed": 26,
+    "poison": 19,
+    "frost": 21,
+    "curse": 13,
+    "poise": 7.6,
+    "weight": 6.5,
+    "durability": 450
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Firelink Gauntlets",
+    "physical": 2.3,
+    "vs_strike": 2.1,
+    "vs_slash": 2.7,
+    "vs_thrust": 1.9,
+    "magic": 3.0,
+    "fire": 3.3,
+    "lightning": 3.1,
+    "dark": 2.5,
+    "bleed": 16,
+    "poison": 22,
+    "frost": 24,
+    "curse": 21,
+    "poise": 1.4,
+    "weight": 2.7,
+    "durability": 280
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Lapp's Helm",
+    "physical": 6.8,
+    "vs_strike": 5.8,
+    "vs_slash": 6.8,
+    "vs_thrust": 6.8,
+    "magic": 4.6,
+    "fire": 4.7,
+    "lightning": 4.2,
+    "dark": 4.6,
+    "bleed": 31,
+    "poison": 25,
+    "frost": 22,
+    "curse": 15,
+    "poise": 7.3,
+    "weight": 6.5,
+    "durability": 450
+  }
+  

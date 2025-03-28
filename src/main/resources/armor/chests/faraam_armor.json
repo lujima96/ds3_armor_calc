@@ -1,0 +1,19 @@
+{
+    "name": "Faraam Armor",
+    "physical": 13.9,
+    "vs_strike": 13.8,
+    "vs_slash": 13.9,
+    "vs_thrust": 12.8,
+    "magic": 10.7,
+    "fire": 12.2,
+    "lightning": 11.2,
+    "dark": 11.2,
+    "bleed": 59,
+    "poison": 40,
+    "frost": 60,
+    "curse": 27,
+    "poise": 17.3,
+    "weight": 12.7,
+    "durability": 400
+  }
+  

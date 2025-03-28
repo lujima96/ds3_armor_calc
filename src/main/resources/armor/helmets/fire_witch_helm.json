@@ -1,0 +1,19 @@
+{
+    "name": "Fire Witch Helm",
+    "physical": 4.7,
+    "vs_strike": 2.3,
+    "vs_slash": 3.7,
+    "vs_thrust": 3.7,
+    "magic": 4.1,
+    "fire": 4.5,
+    "lightning": 2.8,
+    "dark": 3.9,
+    "bleed": 18,
+    "poison": 13,
+    "frost": 15,
+    "curse": 11,
+    "poise": 3.0,
+    "weight": 3.9,
+    "durability": 350
+  }
+  

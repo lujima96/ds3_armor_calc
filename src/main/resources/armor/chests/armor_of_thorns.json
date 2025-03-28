@@ -1,0 +1,19 @@
+{
+    "name": "Armor of Thorns",
+    "physical": 11.0,
+    "vs_strike": 8.1,
+    "vs_slash": 14.2,
+    "vs_thrust": 11.5,
+    "magic": 7.3,
+    "fire": 7.3,
+    "lightning": 7.3,
+    "dark": 5.9,
+    "bleed": 66,
+    "poison": 27,
+    "frost": 33,
+    "curse": 22,
+    "poise": 7.5,
+    "weight": 8.5,
+    "durability": 350
+  }
+  

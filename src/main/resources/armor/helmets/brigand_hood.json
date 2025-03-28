@@ -1,0 +1,19 @@
+{
+    "name": "Brigand Hood",
+    "physical": 3.5,
+    "vs_strike": 3.2,
+    "vs_slash": 3.5,
+    "vs_thrust": 3.5,
+    "magic": 2.7,
+    "fire": 3.0,
+    "lightning": 3.3,
+    "dark": 2.7,
+    "bleed": 19,
+    "poison": 29,
+    "frost": 28,
+    "curse": 19,
+    "poise": 1.4,
+    "weight": 2.7,
+    "durability": 260
+  }
+  

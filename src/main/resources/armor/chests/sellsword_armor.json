@@ -1,0 +1,19 @@
+{
+    "name": "Sellsword Armor",
+    "physical": 12.2,
+    "vs_strike": 12.7,
+    "vs_slash": 12.2,
+    "vs_thrust": 12.2,
+    "magic": 11.1,
+    "fire": 9.1,
+    "lightning": 7.3,
+    "dark": 10.5,
+    "bleed": 59,
+    "poison": 39,
+    "frost": 35,
+    "curse": 26,
+    "poise": 11.5,
+    "weight": 10.6,
+    "durability": 370
+  }
+  

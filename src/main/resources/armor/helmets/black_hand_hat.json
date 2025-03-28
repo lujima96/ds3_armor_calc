@@ -1,0 +1,19 @@
+{
+    "name": "Black Hand Hat",
+    "physical": 2.6,
+    "vs_strike": 2.1,
+    "vs_slash": 3.8,
+    "vs_thrust": 2.9,
+    "magic": 4.2,
+    "fire": 4.4,
+    "lightning": 3.3,
+    "dark": 2.7,
+    "bleed": 19,
+    "poison": 30,
+    "frost": 21,
+    "curse": 25,
+    "poise": 1.1,
+    "weight": 2.5,
+    "durability": 260
+  }
+  

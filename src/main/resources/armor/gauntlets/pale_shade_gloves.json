@@ -1,0 +1,19 @@
+{
+    "name": "Pale Shade Gloves",
+    "physical": 1.2,
+    "vs_strike": 1.2,
+    "vs_slash": 1.2,
+    "vs_thrust": 1.1,
+    "magic": 3.6,
+    "fire": 3.3,
+    "lightning": 3.1,
+    "dark": 3.2,
+    "bleed": 9,
+    "poison": 17,
+    "frost": 8,
+    "curse": 21,
+    "poise": 0.2,
+    "weight": 1.0,
+    "durability": 210
+  }
+  

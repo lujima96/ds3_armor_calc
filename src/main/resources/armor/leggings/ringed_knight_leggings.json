@@ -1,0 +1,19 @@
+{
+    "name": "Ringed Knight Leggings",
+    "physical": 8.1,
+    "vs_strike": 6.2,
+    "vs_slash": 8.9,
+    "vs_thrust": 7.8,
+    "magic": 5.9,
+    "fire": 7.2,
+    "lightning": 6.5,
+    "dark": 5.1,
+    "bleed": 37,
+    "poison": 22,
+    "frost": 24,
+    "curse": 21,
+    "poise": 9.2,
+    "weight": 8.1,
+    "durability": 400
+  }
+  

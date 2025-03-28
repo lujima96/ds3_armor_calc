@@ -1,0 +1,19 @@
+{
+    "name": "Follower Boots",
+    "physical": 4.0,
+    "vs_strike": 5.8,
+    "vs_slash": 4.5,
+    "vs_thrust": 5.4,
+    "magic": 5.8,
+    "fire": 5.0,
+    "lightning": 6.2,
+    "dark": 5.0,
+    "bleed": 23,
+    "poison": 36,
+    "frost": 40,
+    "curse": 30,
+    "poise": 1.6,
+    "weight": 3.3,
+    "durability": 260
+  }
+  

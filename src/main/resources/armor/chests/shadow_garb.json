@@ -1,0 +1,19 @@
+{
+    "name": "Shadow Garb",
+    "physical": 6.8,
+    "vs_strike": 5.5,
+    "vs_slash": 4.4,
+    "vs_thrust": 6.8,
+    "magic": 4.2,
+    "fire": 5.2,
+    "lightning": 6.6,
+    "dark": 4.2,
+    "bleed": 27,
+    "poison": 40,
+    "frost": 38,
+    "curse": 34,
+    "poise": 2.2,
+    "weight": 3.7,
+    "durability": 220
+  }
+  

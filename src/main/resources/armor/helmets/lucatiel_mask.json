@@ -1,0 +1,19 @@
+{
+    "name": "Lucatiel's Mask",
+    "physical": 3.9,
+    "vs_strike": 3.6,
+    "vs_slash": 3.0,
+    "vs_thrust": 2.8,
+    "magic": 4.0,
+    "fire": 3.8,
+    "lightning": 4.8,
+    "dark": 3.8,
+    "bleed": 22,
+    "poison": 26,
+    "frost": 22,
+    "curse": 24,
+    "poise": 1.6,
+    "weight": 3.3,
+    "durability": 270
+  }
+  

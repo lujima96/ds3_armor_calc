@@ -1,0 +1,19 @@
+{
+    "name": "Exile Armor",
+    "physical": 18.2,
+    "vs_strike": 17.6,
+    "vs_slash": 16.6,
+    "vs_thrust": 15.9,
+    "magic": 12.4,
+    "fire": 14.3,
+    "lightning": 12.6,
+    "dark": 13.1,
+    "bleed": 97,
+    "poison": 74,
+    "frost": 62,
+    "curse": 50,
+    "poise": 23.1,
+    "weight": 17.3,
+    "durability": 470
+  }
+  

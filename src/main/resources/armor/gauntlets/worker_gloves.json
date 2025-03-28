@@ -1,0 +1,19 @@
+{
+    "name": "Worker Gloves",
+    "physical": 0.9,
+    "vs_strike": 1.5,
+    "vs_slash": 1.1,
+    "vs_thrust": 1.1,
+    "magic": 1.2,
+    "fire": 0.9,
+    "lightning": 0.9,
+    "dark": 2.3,
+    "bleed": 11,
+    "poison": 22,
+    "frost": 14,
+    "curse": 19,
+    "poise": 0.8,
+    "weight": 1.4,
+    "durability": 230
+  }
+  

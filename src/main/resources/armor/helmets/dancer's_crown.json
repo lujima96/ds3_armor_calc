@@ -1,0 +1,19 @@
+{
+    "name": "Dancer's Crown",
+    "physical": 3.3,
+    "vs_strike": 1.8,
+    "vs_slash": 4.4,
+    "vs_thrust": 4.0,
+    "magic": 2.7,
+    "fire": 2.2,
+    "lightning": 2.5,
+    "dark": 2.8,
+    "bleed": 14,
+    "poison": 10,
+    "frost": 23,
+    "curse": 7,
+    "poise": 1.5,
+    "weight": 2.8,
+    "durability": 270
+  }
+  

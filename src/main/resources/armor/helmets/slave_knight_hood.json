@@ -1,0 +1,19 @@
+{
+    "name": "Slave Knight Hood",
+    "physical": 4.8,
+    "vs_strike": 3.8,
+    "vs_slash": 4.8,
+    "vs_thrust": 3.6,
+    "magic": 2.0,
+    "fire": 2.8,
+    "lightning": 2.0,
+    "dark": 2.5,
+    "bleed": 26,
+    "poison": 14,
+    "frost": 15,
+    "curse": 9,
+    "poise": 3.0,
+    "weight": 3.8,
+    "durability": 350
+  }
+  

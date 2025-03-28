@@ -1,0 +1,19 @@
+{
+    "name": "Exile Mask",
+    "physical": 6.5,
+    "vs_strike": 6.3,
+    "vs_slash": 7.0,
+    "vs_thrust": 5.9,
+    "magic": 4.4,
+    "fire": 5.0,
+    "lightning": 3.6,
+    "dark": 4.5,
+    "bleed": 39,
+    "poison": 29,
+    "frost": 24,
+    "curse": 19,
+    "poise": 8.7,
+    "weight": 7.1,
+    "durability": 470
+  }
+  

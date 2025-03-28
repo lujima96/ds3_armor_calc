@@ -1,0 +1,19 @@
+{
+    "name": "Vilhelm's Helm",
+    "physical": 4.6,
+    "vs_strike": 3.6,
+    "vs_slash": 4.6,
+    "vs_thrust": 5.2,
+    "magic": 3.4,
+    "fire": 4.4,
+    "lightning": 2.0,
+    "dark": 4.0,
+    "bleed": 19,
+    "poison": 15,
+    "frost": 16,
+    "curse": 13,
+    "poise": 4.4,
+    "weight": 4.8,
+    "durability": 370
+  }
+  

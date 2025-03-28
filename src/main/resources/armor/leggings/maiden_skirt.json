@@ -1,0 +1,19 @@
+{
+    "name": "Maiden Skirt",
+    "physical": 1.7,
+    "vs_strike": 2.0,
+    "vs_slash": 1.7,
+    "vs_thrust": 1.5,
+    "magic": 7.5,
+    "fire": 7.0,
+    "lightning": 7.1,
+    "dark": 7.5,
+    "bleed": 13,
+    "poison": 25,
+    "frost": 20,
+    "curse": 48,
+    "poise": 0.1,
+    "weight": 2.3,
+    "durability": 220
+  }
+  

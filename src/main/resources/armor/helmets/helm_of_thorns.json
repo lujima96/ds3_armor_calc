@@ -1,0 +1,19 @@
+{
+    "name": "Helm of Thorns",
+    "physical": 3.7,
+    "vs_strike": 2.6,
+    "vs_slash": 4.9,
+    "vs_thrust": 3.9,
+    "magic": 2.3,
+    "fire": 2.3,
+    "lightning": 2.3,
+    "dark": 1.8,
+    "bleed": 30,
+    "poison": 13,
+    "frost": 15,
+    "curse": 11,
+    "poise": 2.2,
+    "weight": 3.8,
+    "durability": 350
+  }
+  

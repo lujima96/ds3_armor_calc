@@ -1,0 +1,19 @@
+{
+    "name": "Follower Gloves",
+    "physical": 1.7,
+    "vs_strike": 2.5,
+    "vs_slash": 1.9,
+    "vs_thrust": 2.3,
+    "magic": 2.5,
+    "fire": 2.1,
+    "lightning": 2.7,
+    "dark": 2.1,
+    "bleed": 12,
+    "poison": 20,
+    "frost": 22,
+    "curse": 16,
+    "poise": 0.6,
+    "weight": 1.7,
+    "durability": 260
+  }
+  

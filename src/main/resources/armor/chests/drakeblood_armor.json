@@ -1,0 +1,19 @@
+{
+    "name": "Drakeblood Armor",
+    "physical": 14.2,
+    "vs_strike": 14.1,
+    "vs_slash": 16.9,
+    "vs_thrust": 13.6,
+    "magic": 13.2,
+    "fire": 12.6,
+    "lightning": 11.6,
+    "dark": 11.6,
+    "bleed": 78,
+    "poison": 43,
+    "frost": 46,
+    "curse": 33,
+    "poise": 16.4,
+    "weight": 13.9,
+    "durability": 410
+  }
+  

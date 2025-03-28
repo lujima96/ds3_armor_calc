@@ -1,0 +1,19 @@
+{
+    "name": "Morne's Gauntlets",
+    "physical": 3.8,
+    "vs_strike": 3.2,
+    "vs_slash": 3.8,
+    "vs_thrust": 3.7,
+    "magic": 3.1,
+    "fire": 3.1,
+    "lightning": 3.0,
+    "dark": 1.7,
+    "bleed": 21,
+    "poison": 12,
+    "frost": 18,
+    "curse": 11,
+    "poise": 4.1,
+    "weight": 4.8,
+    "durability": 420
+  }
+  

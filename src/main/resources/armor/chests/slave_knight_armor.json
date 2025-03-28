@@ -1,0 +1,19 @@
+{
+    "name": "Slave Knight Armor",
+    "physical": 13.5,
+    "vs_strike": 10.9,
+    "vs_slash": 13.5,
+    "vs_thrust": 10.2,
+    "magic": 5.7,
+    "fire": 8.0,
+    "lightning": 5.7,
+    "dark": 7.1,
+    "bleed": 61,
+    "poison": 34,
+    "frost": 35,
+    "curse": 20,
+    "poise": 9.1,
+    "weight": 8.7,
+    "durability": 350
+  }
+  

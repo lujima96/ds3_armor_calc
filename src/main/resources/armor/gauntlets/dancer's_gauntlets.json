@@ -1,0 +1,19 @@
+{
+    "name": "Dancer's Gauntlets",
+    "physical": 2.8,
+    "vs_strike": 2.0,
+    "vs_slash": 3.2,
+    "vs_thrust": 3.1,
+    "magic": 2.2,
+    "fire": 1.7,
+    "lightning": 2.4,
+    "dark": 2.6,
+    "bleed": 15,
+    "poison": 12,
+    "frost": 20,
+    "curse": 9,
+    "poise": 1.7,
+    "weight": 2.4,
+    "durability": 280
+  }
+  

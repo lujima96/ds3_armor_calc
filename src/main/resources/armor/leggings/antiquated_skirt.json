@@ -1,0 +1,19 @@
+{
+    "name": "Antiquated Skirt",
+    "physical": 1.6,
+    "vs_strike": 1.9,
+    "vs_slash": 1.6,
+    "vs_thrust": 1.4,
+    "magic": 6.7,
+    "fire": 7.5,
+    "lightning": 6.4,
+    "dark": 7.0,
+    "bleed": 13,
+    "poison": 23,
+    "frost": 16,
+    "curse": 54,
+    "poise": 0.4,
+    "weight": 2.1,
+    "durability": 220
+  }
+  

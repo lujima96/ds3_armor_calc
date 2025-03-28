@@ -1,0 +1,19 @@
+{
+    "name": "Black Leather Boots",
+    "physical": 4.8,
+    "vs_strike": 4.3,
+    "vs_slash": 5.2,
+    "vs_thrust": 3.8,
+    "magic": 4.8,
+    "fire": 4.3,
+    "lightning": 5.6,
+    "dark": 4.3,
+    "bleed": 25,
+    "poison": 37,
+    "frost": 31,
+    "curse": 25,
+    "poise": 2.3,
+    "weight": 3.6,
+    "durability": 260
+  }
+  

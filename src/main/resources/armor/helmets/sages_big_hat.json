@@ -1,0 +1,19 @@
+{
+    "name": "Sage's Big Hat",
+    "physical": 2.5,
+    "vs_strike": 2.0,
+    "vs_slash": 2.0,
+    "vs_thrust": 1.6,
+    "magic": 5.2,
+    "fire": 3.6,
+    "lightning": 4.6,
+    "dark": 4.6,
+    "bleed": 15,
+    "poison": 21,
+    "frost": 13,
+    "curse": 26,
+    "poise": 0.4,
+    "weight": 1.9,
+    "durability": 230
+  }
+  

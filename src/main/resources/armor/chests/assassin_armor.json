@@ -1,0 +1,18 @@
+{
+  "name": "Assassin Armor",
+  "physical": 8.6,
+  "vs_strike": 10.0,
+  "vs_slash": 8.6,
+  "vs_thrust": 9.3,
+  "magic": 10.4,
+  "fire": 11.4,
+  "lightning": 10.4,
+  "dark": 9.0,
+  "bleed": 40,
+  "poison": 62,
+  "frost": 47,
+  "curse": 52,
+  "poise": 4.8,
+  "weight": 6.9,
+  "durability": 270
+}

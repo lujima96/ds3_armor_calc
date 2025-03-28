@@ -1,0 +1,19 @@
+{
+    "name": "Fire Keeper Gloves",
+    "physical": 0.8,
+    "vs_strike": 0.9,
+    "vs_slash": 1.1,
+    "vs_thrust": 0.7,
+    "magic": 3.1,
+    "fire": 3.3,
+    "lightning": 2.9,
+    "dark": 3.6,
+    "bleed": 9,
+    "poison": 15,
+    "frost": 11,
+    "curse": 23,
+    "poise": 0.2,
+    "weight": 1.3,
+    "durability": 220
+  }
+  

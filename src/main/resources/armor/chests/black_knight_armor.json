@@ -1,0 +1,19 @@
+{
+    "name": "Black Knight Armor",
+    "physical": 15.8,
+    "vs_strike": 12.2,
+    "vs_slash": 14.4,
+    "vs_thrust": 13.8,
+    "magic": 11.0,
+    "fire": 14.1,
+    "lightning": 10.5,
+    "dark": 12.0,
+    "bleed": 58,
+    "poison": 42,
+    "frost": 39,
+    "curse": 39,
+    "poise": 15.8,
+    "weight": 13.4,
+    "durability": 410
+  }
+  

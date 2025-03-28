@@ -1,0 +1,19 @@
+{
+    "name": "Cathedral Knight Armor",
+    "physical": 17.8,
+    "vs_strike": 18.0,
+    "vs_slash": 15.6,
+    "vs_thrust": 18.8,
+    "magic": 14.8,
+    "fire": 13.6,
+    "lightning": 14.4,
+    "dark": 12.7,
+    "bleed": 66,
+    "poison": 62,
+    "frost": 62,
+    "curse": 47,
+    "poise": 23.6,
+    "weight": 17.0,
+    "durability": 470
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Lorian's Armor",
+    "physical": 16.6,
+    "vs_strike": 10.1,
+    "vs_slash": 16.6,
+    "vs_thrust": 15.9,
+    "magic": 13.3,
+    "fire": 11.2,
+    "lightning": 11.2,
+    "dark": 13.6,
+    "bleed": 67,
+    "poison": 41,
+    "frost": 61,
+    "curse": 50,
+    "poise": 18.4,
+    "weight": 14.7,
+    "durability": 420
+  }
+  

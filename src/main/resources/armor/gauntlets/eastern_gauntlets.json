@@ -1,0 +1,19 @@
+{
+    "name": "Eastern Gauntlets",
+    "physical": 2.8,
+    "vs_strike": 2.2,
+    "vs_slash": 3.8,
+    "vs_thrust": 2.5,
+    "magic": 1.8,
+    "fire": 3.1,
+    "lightning": 1.5,
+    "dark": 1.8,
+    "bleed": 25,
+    "poison": 9,
+    "frost": 11,
+    "curse": 7,
+    "poise": 2.6,
+    "weight": 2.9,
+    "durability": 360
+  }
+  

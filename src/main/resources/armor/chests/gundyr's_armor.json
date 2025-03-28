@@ -1,0 +1,19 @@
+{
+    "name": "Gundyr's Armor",
+    "physical": 16.9,
+    "vs_strike": 14.1,
+    "vs_slash": 19.7,
+    "vs_thrust": 16.2,
+    "magic": 13.2,
+    "fire": 13.7,
+    "lightning": 13.0,
+    "dark": 13.2,
+    "bleed": 86,
+    "poison": 62,
+    "frost": 62,
+    "curse": 62,
+    "poise": 24.6,
+    "weight": 17.2,
+    "durability": 470
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Black Knight Helm",
+    "physical": 5.3,
+    "vs_strike": 4.0,
+    "vs_slash": 4.8,
+    "vs_thrust": 4.6,
+    "magic": 3.4,
+    "fire": 4.6,
+    "lightning": 3.2,
+    "dark": 3.8,
+    "bleed": 27,
+    "poison": 19,
+    "frost": 19,
+    "curse": 19,
+    "poise": 4.6,
+    "weight": 5.4,
+    "durability": 400
+  }
+  

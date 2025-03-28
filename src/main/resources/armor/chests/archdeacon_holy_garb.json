@@ -1,0 +1,19 @@
+{
+    "name": "Archdeacon Holy Garb",
+    "physical": 3.7,
+    "vs_strike": 6.8,
+    "vs_slash": 4.4,
+    "vs_thrust": 4.4,
+    "magic": 12.4,
+    "fire": 11.5,
+    "lightning": 12.4,
+    "dark": 13.7,
+    "bleed": 18,
+    "poison": 39,
+    "frost": 37,
+    "curse": 83,
+    "poise": 3.4,
+    "weight": 4.2,
+    "durability": 230
+  }
+  

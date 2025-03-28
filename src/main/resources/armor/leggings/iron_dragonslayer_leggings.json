@@ -1,0 +1,19 @@
+{
+    "name": "Iron Dragonslayer Leggings",
+    "physical": 9.5,
+    "vs_strike": 7.1,
+    "vs_slash": 9.9,
+    "vs_thrust": 10.4,
+    "magic": 6.1,
+    "fire": 7.1,
+    "lightning": 8.4,
+    "dark": 8.0,
+    "bleed": 48,
+    "poison": 32,
+    "frost": 35,
+    "curse": 16,
+    "poise": 12.5,
+    "weight": 9.5,
+    "durability": 450
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Sellsword Helm",
+    "physical": 3.1,
+    "vs_strike": 3.3,
+    "vs_slash": 3.6,
+    "vs_thrust": 3.9,
+    "magic": 2.7,
+    "fire": 2.7,
+    "lightning": 2.7,
+    "dark": 2.7,
+    "bleed": 27,
+    "poison": 17,
+    "frost": 16,
+    "curse": 12,
+    "poise": 3.5,
+    "weight": 3.1,
+    "durability": 350
+  }
+  

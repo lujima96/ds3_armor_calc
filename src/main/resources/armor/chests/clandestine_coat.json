@@ -1,0 +1,19 @@
+{
+    "name": "Clandestine Coat",
+    "physical": 4.2,
+    "vs_strike": 4.2,
+    "vs_slash": 4.2,
+    "vs_thrust": 3.6,
+    "magic": 13.5,
+    "fire": 12.9,
+    "lightning": 13.1,
+    "dark": 13.5,
+    "bleed": 25,
+    "poison": 36,
+    "frost": 30,
+    "curse": 65,
+    "poise": 0.9,
+    "weight": 3.0,
+    "durability": 210
+  }
+  

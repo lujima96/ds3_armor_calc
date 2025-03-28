@@ -1,0 +1,19 @@
+{
+    "name": "Blindfold Mask",
+    "physical": 1.0,
+    "vs_strike": 0.9,
+    "vs_slash": 0.8,
+    "vs_thrust": 0.9,
+    "magic": 3.6,
+    "fire": 2.8,
+    "lightning": 4.4,
+    "dark": -30.0,
+    "bleed": 6,
+    "poison": 15,
+    "frost": 10,
+    "curse": 32,
+    "poise": 0.0,
+    "weight": 1.1,
+    "durability": 200
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Catarina Gauntlets",
+    "physical": 4.8,
+    "vs_strike": 3.7,
+    "vs_slash": 4.9,
+    "vs_thrust": 4.8,
+    "magic": 3.1,
+    "fire": 3.3,
+    "lightning": 3.9,
+    "dark": 3.4,
+    "bleed": 29,
+    "poison": 22,
+    "frost": 22,
+    "curse": 14,
+    "poise": 5.3,
+    "weight": 5.7,
+    "durability": 470
+  }
+  

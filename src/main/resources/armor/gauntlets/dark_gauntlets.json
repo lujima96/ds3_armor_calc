@@ -1,0 +1,19 @@
+{
+    "name": "Dark Gauntlets",
+    "physical": 3.5,
+    "vs_strike": 2.6,
+    "vs_slash": 3.2,
+    "vs_thrust": 3.1,
+    "magic": 2.6,
+    "fire": 2.2,
+    "lightning": 1.4,
+    "dark": 2.6,
+    "bleed": 12,
+    "poison": 9,
+    "frost": 10,
+    "curse": 4,
+    "poise": 2.3,
+    "weight": 3.2,
+    "durability": 350
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Havel's Armor",
+    "physical": 18.5,
+    "vs_strike": 17.0,
+    "vs_slash": 18.4,
+    "vs_thrust": 17.5,
+    "magic": 14.1,
+    "fire": 16.2,
+    "lightning": 12.8,
+    "dark": 14.1,
+    "bleed": 72,
+    "poison": 69,
+    "frost": 69,
+    "curse": 61,
+    "poise": 27.4,
+    "weight": 21.6,
+    "durability": 500
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Undead Legion Armor",
+    "physical": 10.4,
+    "vs_strike": 10.4,
+    "vs_slash": 5.9,
+    "vs_thrust": 9.0,
+    "magic": 12.6,
+    "fire": 13.0,
+    "lightning": 13.2,
+    "dark": 10.4,
+    "bleed": 39,
+    "poison": 51,
+    "frost": 65,
+    "curse": 42,
+    "poise": 4.9,
+    "weight": 7.6,
+    "durability": 280
+  }
+  

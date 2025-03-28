@@ -1,0 +1,19 @@
+{
+    "name": "Master's Attire",
+    "physical": 2.7,
+    "vs_strike": 2.7,
+    "vs_slash": 2.7,
+    "vs_thrust": 2.1,
+    "magic": 9.1,
+    "fire": 7.6,
+    "lightning": 8.4,
+    "dark": 9.1,
+    "bleed": 37,
+    "poison": 62,
+    "frost": 22,
+    "curse": 74,
+    "poise": 0.0,
+    "weight": 2.0,
+    "durability": 100
+  }
+  

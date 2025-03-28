@@ -1,0 +1,19 @@
+{
+    "name": "Herald Helm",
+    "physical": 4.2,
+    "vs_strike": 2.5,
+    "vs_slash": 4.4,
+    "vs_thrust": 4.0,
+    "magic": 3.5,
+    "fire": 3.2,
+    "lightning": 1.6,
+    "dark": 3.2,
+    "bleed": 24,
+    "poison": 14,
+    "frost": 17,
+    "curse": 10,
+    "poise": 3.4,
+    "weight": 3.7,
+    "durability": 350
+  }
+  

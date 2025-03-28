@@ -1,0 +1,19 @@
+{
+    "name": "Follower Armor",
+    "physical": 7.1,
+    "vs_strike": 10.2,
+    "vs_slash": 8.0,
+    "vs_thrust": 9.5,
+    "magic": 10.2,
+    "fire": 8.8,
+    "lightning": 10.9,
+    "dark": 8.8,
+    "bleed": 37,
+    "poison": 59,
+    "frost": 65,
+    "curse": 48,
+    "poise": 2.7,
+    "weight": 5.6,
+    "durability": 260
+  }
+  

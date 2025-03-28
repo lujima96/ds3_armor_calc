@@ -1,0 +1,19 @@
+{
+    "name": "Mirrah Vest",
+    "physical": 10.5,
+    "vs_strike": 10.5,
+    "vs_slash": 8.2,
+    "vs_thrust": 8.2,
+    "magic": 10.6,
+    "fire": 9.9,
+    "lightning": 12.8,
+    "dark": 9.9,
+    "bleed": 54,
+    "poison": 64,
+    "frost": 54,
+    "curse": 60,
+    "poise": 4.2,
+    "weight": 7.0,
+    "durability": 270
+  }
+  

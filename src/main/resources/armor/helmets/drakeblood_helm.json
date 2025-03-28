@@ -1,0 +1,19 @@
+{
+    "name": "Drakeblood Helm",
+    "physical": 5.2,
+    "vs_strike": 5.1,
+    "vs_slash": 6.2,
+    "vs_thrust": 5.0,
+    "magic": 4.8,
+    "fire": 4.6,
+    "lightning": 4.2,
+    "dark": 4.2,
+    "bleed": 34,
+    "poison": 19,
+    "frost": 21,
+    "curse": 15,
+    "poise": 5.7,
+    "weight": 6.1,
+    "durability": 410
+  }
+  

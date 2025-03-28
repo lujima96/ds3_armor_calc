@@ -1,0 +1,18 @@
+{
+  "name": "Standard Helm",
+  "physical": 3.7,
+  "vs_strike": 3.7,
+  "vs_slash": 3.7,
+  "vs_thrust": 3.7,
+  "magic": 3.0,
+  "fire": 3.3,
+  "lightning": 2.4,
+  "dark": 3.0,
+  "bleed": 22,
+  "poison": 29,
+  "frost": 27,
+  "curse": 24,
+  "poise": 2.5,
+  "weight": 3.7,
+  "durability": 280
+}

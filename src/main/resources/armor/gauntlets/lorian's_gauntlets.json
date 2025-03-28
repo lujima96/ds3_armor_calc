@@ -1,0 +1,19 @@
+{
+    "name": "Lorian's Gauntlets",
+    "physical": 3.2,
+    "vs_strike": 2.3,
+    "vs_slash": 3.0,
+    "vs_thrust": 2.9,
+    "magic": 2.9,
+    "fire": 1.5,
+    "lightning": 1.5,
+    "dark": 2.9,
+    "bleed": 16,
+    "poison": 7,
+    "frost": 11,
+    "curse": 10,
+    "poise": 1.8,
+    "weight": 3.0,
+    "durability": 360
+  }
+  

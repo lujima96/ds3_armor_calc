@@ -1,0 +1,19 @@
+{
+    "name": "Ordained Dress",
+    "physical": 5.7,
+    "vs_strike": 3.9,
+    "vs_slash": 8.0,
+    "vs_thrust": 2.9,
+    "magic": 14.5,
+    "fire": 11.4,
+    "lightning": 12.6,
+    "dark": 12.6,
+    "bleed": 20,
+    "poison": 53,
+    "frost": 48,
+    "curse": 69,
+    "poise": 2.7,
+    "weight": 4.4,
+    "durability": 230
+  }
+  

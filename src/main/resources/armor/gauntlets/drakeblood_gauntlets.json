@@ -1,0 +1,19 @@
+{
+    "name": "Drakeblood Gauntlets",
+    "physical": 3.5,
+    "vs_strike": 3.4,
+    "vs_slash": 4.3,
+    "vs_thrust": 3.3,
+    "magic": 3.1,
+    "fire": 2.9,
+    "lightning": 2.7,
+    "dark": 2.7,
+    "bleed": 25,
+    "poison": 13,
+    "frost": 14,
+    "curse": 9,
+    "poise": 3.8,
+    "weight": 4.6,
+    "durability": 420
+  }
+  

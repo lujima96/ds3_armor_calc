@@ -1,0 +1,19 @@
+{
+    "name": "Lapp's Leggings",
+    "physical": 10.8,
+    "vs_strike": 9.1,
+    "vs_slash": 10.8,
+    "vs_thrust": 10.7,
+    "magic": 7.2,
+    "fire": 7.5,
+    "lightning": 6.6,
+    "dark": 7.2,
+    "bleed": 46,
+    "poison": 36,
+    "frost": 32,
+    "curse": 22,
+    "poise": 12.9,
+    "weight": 9.7,
+    "durability": 450
+  }
+  

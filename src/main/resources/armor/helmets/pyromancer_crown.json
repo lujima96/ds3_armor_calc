@@ -1,0 +1,19 @@
+{
+    "name": "Pyromancer Crown",
+    "physical": 0.7,
+    "vs_strike": 0.7,
+    "vs_slash": 0.7,
+    "vs_thrust": 0.7,
+    "magic": 4.2,
+    "fire": 4.8,
+    "lightning": 3.6,
+    "dark": 4.0,
+    "bleed": 9,
+    "poison": 14,
+    "frost": 15,
+    "curse": 21,
+    "poise": 0.0,
+    "weight": 1.1,
+    "durability": 200
+  }
+  

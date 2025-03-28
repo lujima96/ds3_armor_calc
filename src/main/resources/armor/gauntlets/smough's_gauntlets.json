@@ -1,0 +1,19 @@
+{
+    "name": "Smough's Gauntlets",
+    "physical": 4.8,
+    "vs_strike": 4.9,
+    "vs_slash": 4.6,
+    "vs_thrust": 4.0,
+    "magic": 3.3,
+    "fire": 3.2,
+    "lightning": 3.4,
+    "dark": 3.5,
+    "bleed": 20,
+    "poison": 20,
+    "frost": 20,
+    "curse": 18,
+    "poise": 6.9,
+    "weight": 9.4,
+    "durability": 500
+  }
+  

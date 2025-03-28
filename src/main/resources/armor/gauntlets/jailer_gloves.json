@@ -1,0 +1,19 @@
+{
+    "name": "Jailer Gloves",
+    "physical": 1.7,
+    "vs_strike": 0.7,
+    "vs_slash": 1.7,
+    "vs_thrust": 1.1,
+    "magic": 2.7,
+    "fire": 2.6,
+    "lightning": 2.2,
+    "dark": 2.7,
+    "bleed": 10,
+    "poison": 15,
+    "frost": 13,
+    "curse": 32,
+    "poise": 0.3,
+    "weight": 1.6,
+    "durability": 230
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Herald Gloves",
+    "physical": 3.1,
+    "vs_strike": 2.1,
+    "vs_slash": 3.1,
+    "vs_thrust": 2.9,
+    "magic": 1.7,
+    "fire": 2.1,
+    "lightning": 0.7,
+    "dark": 1.5,
+    "bleed": 16,
+    "poison": 12,
+    "frost": 12,
+    "curse": 8,
+    "poise": 1.6,
+    "weight": 2.9,
+    "durability": 350
+  }
+  

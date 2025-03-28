@@ -1,0 +1,19 @@
+{
+    "name": "Slave Knight Leggings",
+    "physical": 7.7,
+    "vs_strike": 6.2,
+    "vs_slash": 7.7,
+    "vs_thrust": 5.8,
+    "magic": 3.2,
+    "fire": 4.5,
+    "lightning": 3.2,
+    "dark": 4.0,
+    "bleed": 38,
+    "poison": 21,
+    "frost": 22,
+    "curse": 12,
+    "poise": 5.5,
+    "weight": 5.4,
+    "durability": 350
+  }
+  

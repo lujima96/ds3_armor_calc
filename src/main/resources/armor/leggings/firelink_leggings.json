@@ -1,0 +1,19 @@
+{
+    "name": "Firelink Leggings",
+    "physical": 5.4,
+    "vs_strike": 5.0,
+    "vs_slash": 6.2,
+    "vs_thrust": 4.5,
+    "magic": 6.0,
+    "fire": 7.3,
+    "lightning": 7.0,
+    "dark": 5.6,
+    "bleed": 28,
+    "poison": 40,
+    "frost": 44,
+    "curse": 37,
+    "poise": 3.5,
+    "weight": 4.8,
+    "durability": 280
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "Wolnir's Crown",
+    "physical": 3.1,
+    "vs_strike": 3.1,
+    "vs_slash": 3.1,
+    "vs_thrust": 2.8,
+    "magic": 3.9,
+    "fire": 4.3,
+    "lightning": 4.5,
+    "dark": 4.9,
+    "bleed": 18,
+    "poison": 29,
+    "frost": 27,
+    "curse": 37,
+    "poise": 1.8,
+    "weight": 3.4,
+    "durability": 270
+  }
+  

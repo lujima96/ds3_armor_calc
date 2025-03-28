@@ -1,0 +1,19 @@
+{
+    "name": "Winged Knight Gauntlets",
+    "physical": 4.8,
+    "vs_strike": 3.7,
+    "vs_slash": 4.8,
+    "vs_thrust": 4.4,
+    "magic": 3.5,
+    "fire": 4.0,
+    "lightning": 3.8,
+    "dark": 4.5,
+    "bleed": 22,
+    "poison": 21,
+    "frost": 21,
+    "curse": 13,
+    "poise": 5.5,
+    "weight": 6.0,
+    "durability": 470
+  }
+  

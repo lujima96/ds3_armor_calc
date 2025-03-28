@@ -1,0 +1,19 @@
+{
+    "name": "Assassin Gloves",
+    "physical": 2.0,
+    "vs_strike": 1.2,
+    "vs_slash": 2.3,
+    "vs_thrust": 1.8,
+    "magic": 2.6,
+    "fire": 2.7,
+    "lightning": 1.9,
+    "dark": 1.5,
+    "bleed": 12,
+    "poison": 20,
+    "frost": 13,
+    "curse": 16,
+    "poise": 0.4,
+    "weight": 2.0,
+    "durability": 0.6
+  }
+  

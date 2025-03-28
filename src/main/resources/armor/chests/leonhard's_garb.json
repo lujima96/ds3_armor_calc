@@ -1,0 +1,19 @@
+{
+    "name": "Leonhard's Garb",
+    "physical": 9.8,
+    "vs_strike": 9.8,
+    "vs_slash": 9.1,
+    "vs_thrust": 9.8,
+    "magic": 12.2,
+    "fire": 12.7,
+    "lightning": 9.8,
+    "dark": 8.3,
+    "bleed": 41,
+    "poison": 55,
+    "frost": 62,
+    "curse": 55,
+    "poise": 6.0,
+    "weight": 6.9,
+    "durability": 270
+  }
+  

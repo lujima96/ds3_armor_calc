@@ -1,0 +1,19 @@
+{
+    "name": "Assassin Trousers",
+    "physical": 5.2,
+    "vs_strike": 3.8,
+    "vs_slash": 6.0,
+    "vs_thrust": 4.8,
+    "magic": 6.6,
+    "fire": 6.9,
+    "lightning": 5.2,
+    "dark": 4.3,
+    "bleed": 29,
+    "poison": 43,
+    "frost": 32,
+    "curse": 38,
+    "poise": 2.1,
+    "weight": 4.3,
+    "durability": 270
+  }
+  

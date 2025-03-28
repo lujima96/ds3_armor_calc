@@ -1,0 +1,19 @@
+{
+    "name": "Outrider Knight Armor",
+    "physical": 14.4,
+    "vs_strike": 10.6,
+    "vs_slash": 13.8,
+    "vs_thrust": 13.8,
+    "magic": 9.7,
+    "fire": 11.4,
+    "lightning": 9.7,
+    "dark": 7.5,
+    "bleed": 50,
+    "poison": 43,
+    "frost": 91,
+    "curse": 22,
+    "poise": 12.5,
+    "weight": 12.0,
+    "durability": 380
+  }
+  
