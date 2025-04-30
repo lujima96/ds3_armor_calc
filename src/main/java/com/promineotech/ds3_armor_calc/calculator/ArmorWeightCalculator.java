@@ -59,7 +59,7 @@ public class ArmorWeightCalculator {
         this.currentWeight += weight;
     }
     
-    // Getters (if needed)
+    
     public double getCurrentWeight() {
         return currentWeight;
     }
